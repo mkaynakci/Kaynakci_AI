@@ -14,9 +14,9 @@ public:
     AVLNode* search(std::string chrom, int pos, std::string altBase);
     AVLNode* remove(const std::string& chrom, int pos, const std::string& altBase);
     AVLNode* minValueNode(); 
-    int getBalance();
+    int getBalance(AVLNode* node);
     
-    static int getBalance(AVLNode* node);
+    //static int getBalance(AVLNode* node);
     AVLNode* leftRotate();
     int max(int a, int b); 
     AVLNode* rightRotate(); 

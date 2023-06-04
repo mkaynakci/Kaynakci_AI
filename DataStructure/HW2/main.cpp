@@ -2,6 +2,7 @@
 #include <vector>
 #include <fstream>
 #include <sstream>
+#include <chrono>
 #include "BSTree.h"
 #include "AVLTree.h"
 #include "LinkedList.h"
@@ -35,6 +36,7 @@ int main()
             cin >> choice_op;
             switch(choice_op) {
                 case '1': {
+                    auto start = chrono::high_resolution_clock::now();
                     ifstream file(file_gt);
                     string line;
                     // Skip the first line
@@ -47,9 +49,13 @@ int main()
                         bst_gt->insert(chrom, pos, altBase);
                     }
                     file.close();
+                    auto end = chrono::high_resolution_clock::now();
+                    auto duration = chrono::duration_cast<chrono::microseconds>(end - start);
+                    cout << "BST Ground truth data structure was created from file in : " << duration.count() << " microseconds" << endl;
                     break;
                 }
                 case '2': {
+                    auto start = chrono::high_resolution_clock::now();
                     ifstream file(file_predict);
                     string line;
                     // Skip the first line
@@ -62,6 +68,10 @@ int main()
                         bst_predict->insert(chrom, pos, altBase);
                     }
                     file.close();
+                    auto end = chrono::high_resolution_clock::now();
+                    auto duration = chrono::duration_cast<chrono::microseconds>(end - start);
+                    cout << "BST prediction data structure was created from file in : " << duration.count() << " microseconds" << endl;
+
                     break;
                 }
                 
@@ -70,42 +80,63 @@ int main()
                     int pos;
                     cout << "Enter CHROM, POS, ALT BASE of the variant to add: ";
                     cin >> chrom >> pos >> altBase;
+                    auto start = chrono::high_resolution_clock::now();
                     bst_predict->insert(chrom, pos, altBase);
+                    auto end = chrono::high_resolution_clock::now();
+                    auto duration = chrono::duration_cast<chrono::microseconds>(end - start);
+                    cout << "BST Adding Prediction Variant took : " << duration.count() << " microseconds" << endl;
+
                     break;
                  }
 
 
                 case '4': {
-                    string chrom, altBase;
+                     string chrom, altBase;
                     int pos;
                     cout << "Enter CHROM, POS, ALT BASE of the variant to delete: ";
                     cin >> chrom >> pos >> altBase;
+                    auto start = chrono::high_resolution_clock::now(); 
                     bst_predict->remove(chrom, pos, altBase);
+                    auto end = chrono::high_resolution_clock::now();
+                    auto duration = chrono::duration_cast<chrono::microseconds>(end - start);
+                    cout << "BST Removing Prediction Variant took : " << duration.count() << " microseconds" << endl;
+
                     break;
                 }
                 
                 case '5': {
                     cout << "Listing prediction variants:" << endl;
+                    auto start = chrono::high_resolution_clock::now();
                     bst_predict->printInOrder();
+                    auto end = chrono::high_resolution_clock::now();
+                    auto duration = chrono::duration_cast<chrono::microseconds>(end - start);
+                    cout << "BST Listing Prediction Variants took : " << duration.count() << " microseconds" << endl;
+               
                     break;
                 }
 
 
                 case '6': {
+                    
                     string chrom, altBase;
                     int pos;
                     cout << "Enter CHROM, POS, ALT BASE of the variant to search: ";
                     cin >> chrom >> pos >> altBase;
+                    auto start = chrono::high_resolution_clock::now();
                     BSTNode* found = bst_predict->search(chrom, pos, altBase);
                     if (found != nullptr) {
                         cout << "Variant found: " << found->getChrom() << " " << found->getPos() << " " << found->getAltBase() << endl;
                     } else {
                         cout << "Variant not found." << endl;
                     }
+                    auto end = chrono::high_resolution_clock::now();
+                    auto duration = chrono::duration_cast<chrono::microseconds>(end - start);
+                    cout << "BST Searching a Prediction Variants took : " << duration.count() << " microseconds" << endl;               
                     break;
                 }
 
                 case '7': {
+                    auto start = chrono::high_resolution_clock::now();                    
                     std::vector<BSTNode*> gt_nodes, predict_nodes;
                     bst_gt->storeInOrder(gt_nodes);
                     bst_predict->storeInOrder(predict_nodes);
@@ -119,13 +150,18 @@ int main()
                             }
                         }
                     }
+                    auto end = chrono::high_resolution_clock::now();
+                    auto duration = chrono::duration_cast<chrono::microseconds>(end - start);
 
-                    cout << "True positive variant count: " << true_positive_count << endl;
+                    cout << "True positive variant count is: " << true_positive_count << endl;
+                    cout << "BST Calculating TP took : " << duration.count() << " microseconds" << endl;               
                     break;
                 }
 
 
                 case '0': {
+                    delete bst_gt;
+                    delete bst_predict;
                     end = true;
                     break;
                 }
@@ -150,6 +186,7 @@ int main()
 
             switch(choice_op) {
                 case '1': {
+                    auto start = chrono::high_resolution_clock::now();                    
                     ifstream file(file_gt);
                     string line;
                     // Skip the first line
@@ -162,9 +199,14 @@ int main()
                         avt_gt->insert(chrom, pos, altBase);
                     }
                     file.close();
+                    auto end = chrono::high_resolution_clock::now();
+                    auto duration = chrono::duration_cast<chrono::microseconds>(end - start);
+                    cout << "AVL Ground truth data structure was created from file in : " << duration.count() << " microseconds" << endl;
+
                     break;
                 }
                 case '2': {
+                    auto start = chrono::high_resolution_clock::now();                      
                     ifstream file(file_predict);
                     string line;
                     // Skip the first line
@@ -177,6 +219,10 @@ int main()
                         avt_predict->insert(chrom, pos, altBase);
                     }
                     file.close();
+                    auto end = chrono::high_resolution_clock::now();
+                    auto duration = chrono::duration_cast<chrono::microseconds>(end - start);
+                    cout << "AVL prediction data structure was created from file in : " << duration.count() << " microseconds" << endl;
+
                     break;
                 }
 
@@ -185,7 +231,13 @@ int main()
                     int pos;
                     cout << "Enter CHROM, POS, ALT BASE of the variant to add: ";
                     cin >> chrom >> pos >> altBase;
+                    auto start = chrono::high_resolution_clock::now();                     
                     avt_predict->insert(chrom, pos, altBase);
+
+                    auto end = chrono::high_resolution_clock::now();
+                    auto duration = chrono::duration_cast<chrono::microseconds>(end - start);
+                    cout << "AVL Adding Prediction Variant took : " << duration.count() << " microseconds" << endl;
+
                     break;
                 }
 
@@ -194,14 +246,25 @@ int main()
                     int pos;
                     cout << "Enter CHROM, POS, ALT BASE of the variant to delete: ";
                     cin >> chrom >> pos >> altBase;
+                    auto start = chrono::high_resolution_clock::now();                      
                     avt_predict->remove(chrom, pos, altBase);
+
+                    auto end = chrono::high_resolution_clock::now();
+                    auto duration = chrono::duration_cast<chrono::microseconds>(end - start);
+                    cout << "AVL Removing Prediction Variant took : " << duration.count() << " microseconds" << endl;
+
                     break;
                 }
 
 
                 case '5': {
                     cout << "Listing prediction variants:" << endl;
+                    auto start = chrono::high_resolution_clock::now();                      
                     avt_predict->printInOrder();
+                    auto end = chrono::high_resolution_clock::now();
+                    auto duration = chrono::duration_cast<chrono::microseconds>(end - start);
+                    cout << "AVL Listing Prediction Variants took : " << duration.count() << " microseconds" << endl;
+                                   
                     break;
                 }
 
@@ -210,17 +273,23 @@ int main()
                     int pos;
                     cout << "Enter CHROM, POS, ALT BASE of the variant to search: ";
                     cin >> chrom >> pos >> altBase;
+                    auto start = chrono::high_resolution_clock::now();                       
                     AVLNode* found = avt_predict->search(chrom, pos, altBase);
                     if (found != nullptr) {
                         cout << "Variant found: " << found->getChrom() << " " << found->getPos() << " " << found->getAltBase() << endl;
                     } else {
                         cout << "Variant not found." << endl;
                     }
+                    auto end = chrono::high_resolution_clock::now();
+                    auto duration = chrono::duration_cast<chrono::microseconds>(end - start);
+                    cout << "AVL Searching a Prediction Variants took : " << duration.count() << " microseconds" << endl;               
+
                     break;
                 }
 
 
                 case '7': {
+                    auto start = chrono::high_resolution_clock::now();                         
                     std::vector<AVLNode*> gt_nodes, predict_nodes;
                     avt_gt->storeInOrder(gt_nodes);
                     avt_predict->storeInOrder(predict_nodes);
@@ -235,7 +304,11 @@ int main()
                         }
                     }
 
-                    cout << "True positive variant count: " << true_positive_count << endl;
+                    auto end = chrono::high_resolution_clock::now();
+                    auto duration = chrono::duration_cast<chrono::microseconds>(end - start);
+
+                    cout << "True positive variant count is: " << true_positive_count << endl;
+                    cout << "AVL Calculating TP took : " << duration.count() << " microseconds" << endl; 
                     break;
                 }
 
@@ -266,6 +339,7 @@ int main()
 
             switch(choice_op) {
             case '1': {
+                    auto start = chrono::high_resolution_clock::now();                 
                     ifstream file(file_gt);
                     string line;
                     // Skip the first line
@@ -278,9 +352,14 @@ int main()
                         ll_gt->insert(chrom, pos, altBase);
                     }
                     file.close();
+                    auto end = chrono::high_resolution_clock::now();
+                    auto duration = chrono::duration_cast<chrono::microseconds>(end - start);
+                    cout << "LinkedList Ground truth data structure was created from file in : " << duration.count() << " microseconds" << endl;
+
                     break;
                 }
                 case '2': {
+                    auto start = chrono::high_resolution_clock::now(); 
                     ifstream file(file_predict);
                     string line;
                     // Skip the first line
@@ -293,11 +372,50 @@ int main()
                         ll_predict->insert(chrom, pos, altBase);
                     }
                     file.close();
+                    auto end = chrono::high_resolution_clock::now();
+                    auto duration = chrono::duration_cast<chrono::microseconds>(end - start);
+                    cout << "LinkedList prediction data structure was created from file in : " << duration.count() << " microseconds" << endl;
+
+                    break;
+                }
+
+                case '3': {
+                    string chrom, altBase;
+                    int pos;
+                    cout << "Enter CHROM, POS, ALT BASE of the variant to add: ";
+                    cin >> chrom >> pos >> altBase;
+                    auto start = chrono::high_resolution_clock::now();                     
+                    ll_predict->insert(chrom, pos, altBase);
+
+                    auto end = chrono::high_resolution_clock::now();
+                    auto duration = chrono::duration_cast<chrono::microseconds>(end - start);
+                    cout << "LinkedList Adding Prediction Variant took : " << duration.count() << " microseconds" << endl;
+
+                    break;
+                }
+
+                case '4': {
+                    string chrom, altBase;
+                    int pos;
+                    cout << "Enter CHROM, POS, ALT BASE of the variant to delete: ";
+                    cin >> chrom >> pos >> altBase;
+                    auto start = chrono::high_resolution_clock::now();                      
+                    ll_predict->remove(chrom, pos, altBase);
+
+                    auto end = chrono::high_resolution_clock::now();
+                    auto duration = chrono::duration_cast<chrono::microseconds>(end - start);
+                    cout << "LinkedList Removing Prediction Variant took : " << duration.count() << " microseconds" << endl;
+
                     break;
                 }
 
                 case '5': {
+                    auto start = chrono::high_resolution_clock::now();                    
                     ll_predict->printList();
+                    auto end = chrono::high_resolution_clock::now();
+                    auto duration = chrono::duration_cast<chrono::microseconds>(end - start);
+                    cout << "LinkedList Listing Prediction Variants took : " << duration.count() << " microseconds" << endl;
+                                                       
                     break;
                 }
 
@@ -307,16 +425,24 @@ int main()
                     cout << "Enter CHROM, POS, ALT BASE of the variant to search: ";
                     cin >> chrom >> pos >> altBase;
 
+                    auto start = chrono::high_resolution_clock::now();
+
                     ListNode* found = ll_predict->search(chrom, pos, altBase);
                     if (found != nullptr) {
                         std::cout << "Variant found: " << found->getChrom() << " " << found->getPos() << " " << found->getAltBase() << std::endl;
                     } else {
                         std::cout << "Variant not found." << std::endl;
                     }
+
+                    auto end = chrono::high_resolution_clock::now();
+                    auto duration = chrono::duration_cast<chrono::microseconds>(end - start);
+                    cout << "LinkedList Searching a Prediction Variants took : " << duration.count() << " microseconds" << endl;               
+
                     break;
                     }
 
                 case '7': {
+                    auto start = chrono::high_resolution_clock::now();                         
                     std::vector<ListNode*> gt_nodes, predict_nodes;
                     ll_gt->storeNodes(gt_nodes);
                     ll_predict->storeNodes(predict_nodes);
@@ -331,7 +457,12 @@ int main()
                         }
                     }
 
-                    cout << "True positive variant count: " << true_positive_count << endl;
+                    auto end = chrono::high_resolution_clock::now();
+                    auto duration = chrono::duration_cast<chrono::microseconds>(end - start);
+
+                    cout << "True positive variant count is: " << true_positive_count << endl;
+                    cout << "Linked List Calculating TP took : " << duration.count() << " microseconds" << endl; 
+
                     break;
                 }
 

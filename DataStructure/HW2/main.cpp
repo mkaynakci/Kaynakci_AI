@@ -1,5 +1,10 @@
 #include <iostream>
 #include <vector>
+#include <fstream>
+#include <sstream>
+#include "BSTree.h"
+#include "AVLTree.h"
+
 
 using namespace std;
 
@@ -21,24 +26,168 @@ int main()
     if (choice_ds == '1') //Binary Search Tree Selection
     {
         //BinSTree* bst = new BinSTree();
+        BSTree* bst_gt = new BSTree();
+        BSTree* bst_predict = new BSTree();
 
         while (!end)
         {
             print_operation_menu();
             cin >> choice_op;
-            // Fill here according to the choice
+            switch(choice_op) {
+                case '1': {
+                    ifstream file(file_gt);
+                    string line;
+                    while (getline(file, line)) {
+                        stringstream ss(line);
+                        string chrom, altBase;
+                        int pos;
+                        ss >> chrom >> pos >> altBase;
+                        bst_gt->insert(chrom, pos, altBase);
+                    }
+                    file.close();
+                    break;
+                }
+                case '2': {
+                    ifstream file(file_predict);
+                    string line;
+                    while (getline(file, line)) {
+                        stringstream ss(line);
+                        string chrom, altBase;
+                        int pos;
+                        ss >> chrom >> pos >> altBase;
+                        bst_predict->insert(chrom, pos, altBase);
+                    }
+                    file.close();
+                    break;
+                }
+                
+                case '3': {
+                    string chrom, altBase;
+                    int pos;
+                    cout << "Enter CHROM, POS, ALT BASE of the variant to add: ";
+                    cin >> chrom >> pos >> altBase;
+                    bst_predict->insert(chrom, pos, altBase);
+                    break;
+                 }
+
+
+                case '4': {
+                    string chrom, altBase;
+                    int pos;
+                    cout << "Enter CHROM, POS, ALT BASE of the variant to delete: ";
+                    cin >> chrom >> pos >> altBase;
+                    bst_predict->remove(chrom, pos, altBase);
+                    break;
+                }
+                
+                case '5': {
+                    cout << "Listing prediction variants:" << endl;
+                    bst_predict->printInOrder();
+                    break;
+                }
+
+
+                case '6': {
+                    string chrom, altBase;
+                    int pos;
+                    cout << "Enter CHROM, POS, ALT BASE of the variant to search: ";
+                    cin >> chrom >> pos >> altBase;
+                    BSTNode* found = bst_predict->search(chrom, pos, altBase);
+                    if (found != nullptr) {
+                        cout << "Variant found: " << found->getChrom() << " " << found->getPos() << " " << found->getAltBase() << endl;
+                    } else {
+                        cout << "Variant not found." << endl;
+                    }
+                    break;
+                }
+
+                case '7': {
+                    std::vector<BSTNode*> gt_nodes, predict_nodes;
+                    bst_gt->storeInOrder(gt_nodes);
+                    bst_predict->storeInOrder(predict_nodes);
+
+                    int true_positive_count = 0;
+                    for (BSTNode* gt_node : gt_nodes) {
+                        for (BSTNode* predict_node : predict_nodes) {
+                            if (gt_node->getChrom() == predict_node->getChrom() && gt_node->getPos() == predict_node->getPos() && gt_node->getAltBase() == predict_node->getAltBase()) {
+                                true_positive_count++;
+                                break;
+                            }
+                        }
+                    }
+
+                    cout << "True positive variant count: " << true_positive_count << endl;
+                    break;
+                }
+
+
+                case '0': {
+                    end = true;
+                    break;
+                }
+                default: {
+                    cout << "Invalid operation" << endl;
+                }
+            }
+
         }
     }
 
     else if (choice_ds == '2') //AVL Tree Selection
     {
-        //AVLTree* avt = new AVLTree();
+        AVLTree* avt_gt = new AVLTree();
+        AVLTree* avt_predict = new AVLTree();
 
         while (!end)
         {
             print_operation_menu();
             cin >> choice_op;
             // Fill here according to the choice
+
+            switch(choice_op) {
+                case '1': {
+                    ifstream file(file_gt);
+                    string line;
+                    while (getline(file, line)) {
+                        stringstream ss(line);
+                        string chrom, altBase;
+                        int pos;
+                        ss >> chrom >> pos >> altBase;
+                        avt_gt->insert(chrom, pos, altBase);
+                    }
+                    file.close();
+                    break;
+                }
+                case '2': {
+                    ifstream file(file_predict);
+                    string line;
+                    while (getline(file, line)) {
+                        stringstream ss(line);
+                        string chrom, altBase;
+                        int pos;
+                        ss >> chrom >> pos >> altBase;
+                        avt_predict->insert(chrom, pos, altBase);
+                    }
+                    file.close();
+                    break;
+                }
+
+                case '5': {
+                    cout << "Listing prediction variants:" << endl;
+                    avt_predict->printInOrder();
+                    break;
+                }
+
+
+                case '0': {
+                    end = true;
+                    break;
+                }
+                default: {
+                    cout << "Invalid operation" << endl;
+                }
+
+            }
         }
     }
 

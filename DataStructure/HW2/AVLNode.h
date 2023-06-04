@@ -7,13 +7,17 @@ private:
     std::string altBase;
     AVLNode* left;
     AVLNode* right;
-    int height;
 
 public:
+    int height;
     AVLNode(std::string chrom, int pos, std::string altBase);
     AVLNode* search(std::string chrom, int pos, std::string altBase);
     AVLNode* remove(const std::string& chrom, int pos, const std::string& altBase);
-
+    AVLNode* minValueNode(); 
+    int getBalance();
+    AVLNode* leftRotate();
+    int max(int a, int b); 
+    AVLNode* rightRotate(); 
 
     std::string getChrom();
     int getPos();

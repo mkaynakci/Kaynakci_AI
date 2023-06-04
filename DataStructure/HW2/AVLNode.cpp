@@ -29,14 +29,14 @@ AVLNode* AVLNode::getRight() {
     return right;
 }
 
-/*
+
 int AVLNode::getHeight() {
     return height;
 }
-*/
+
 
 // Static method to get height of a node. Returns 0 if node is nullptr.
-static int getHeight(AVLNode* node) {
+int AVLNode::getHeight(AVLNode* node) {
     if (node == nullptr) {
         return 0;
     }
@@ -101,11 +101,21 @@ AVLNode* AVLNode::minValueNode() {
 }
 
 // Method to get balance factor of the node
+
 int AVLNode::getBalance() {
     if (this == nullptr) {
         return 0;
     }
     return getHeight(left) - getHeight(right);
+}
+
+
+// Static method to get balance factor of a node. Returns 0 if node is nullptr.
+static int getBalance(AVLNode* node) {
+    if (node == nullptr) {
+        return 0;
+    }
+    return AVLNode::getHeight(node->left) - AVLNode::getHeight(node->right);
 }
 
 // Method to perform a right rotation on the node
@@ -201,23 +211,23 @@ AVLNode* AVLNode::remove(const std::string& chrom, int pos, const std::string& a
 
     // Step 4: If the node is unbalanced, then try out the 4 cases
     // Left Left Case
-    if (balance > 1 && getBalance(left) >= 0) {
+    if (balance > 1 && AVLNode::getBalance(left) >= 0) {
         return rightRotate();
     }
 
     // Left Right Case
-    if (balance > 1 && getBalance(left) < 0) {
+    if (balance > 1 && AVLNode::getBalance(left) < 0) {
         left = left->leftRotate();
         return rightRotate();
     }
 
     // Right Right Case
-    if (balance < -1 && getBalance(right) <= 0) {
+    if (balance < -1 && AVLNode::getBalance(right) <= 0) {
         return leftRotate();
     }
 
     // Right Left Case
-    if (balance < -1 && getBalance(right) > 0) {
+    if (balance < -1 && AVLNode::getBalance(right) > 0) {
         right = right->rightRotate();
         return leftRotate();
     }

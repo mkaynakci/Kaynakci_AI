@@ -11,7 +11,7 @@ private:
 
 public:
     AVLNode(std::string chrom, int pos, std::string altBase);
-    AVLNode* search(const std::string& chrom, int pos, const std::string& altBase);
+    AVLNode* search(std::string chrom, int pos, std::string altBase);
     AVLNode* remove(const std::string& chrom, int pos, const std::string& altBase);
 
 

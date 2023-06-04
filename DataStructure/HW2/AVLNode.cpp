@@ -58,8 +58,9 @@ void AVLNode::setHeight(int height) {
 }
 
 
+
 // Search method
-AVLNode* AVLNode::search(const std::string& chrom, int pos, const std::string& altBase) {
+AVLNode* AVLNode::search(std::string chrom, int pos, std::string altBase) {
     if (this == nullptr) {
         return nullptr;
     } else if (this->chrom == chrom && this->pos == pos && this->altBase == altBase) {

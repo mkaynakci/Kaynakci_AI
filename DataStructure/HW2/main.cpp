@@ -4,7 +4,7 @@
 #include <sstream>
 #include "BSTree.h"
 #include "AVLTree.h"
-
+#include "LinkedList.h"
 
 using namespace std;
 
@@ -37,6 +37,8 @@ int main()
                 case '1': {
                     ifstream file(file_gt);
                     string line;
+                    // Skip the first line
+                    getline(file, line);
                     while (getline(file, line)) {
                         stringstream ss(line);
                         string chrom, altBase;
@@ -50,6 +52,8 @@ int main()
                 case '2': {
                     ifstream file(file_predict);
                     string line;
+                    // Skip the first line
+                    getline(file, line);
                     while (getline(file, line)) {
                         stringstream ss(line);
                         string chrom, altBase;
@@ -148,6 +152,8 @@ int main()
                 case '1': {
                     ifstream file(file_gt);
                     string line;
+                    // Skip the first line
+                    getline(file, line);
                     while (getline(file, line)) {
                         stringstream ss(line);
                         string chrom, altBase;
@@ -161,6 +167,8 @@ int main()
                 case '2': {
                     ifstream file(file_predict);
                     string line;
+                    // Skip the first line
+                    getline(file, line);
                     while (getline(file, line)) {
                         stringstream ss(line);
                         string chrom, altBase;
@@ -247,11 +255,96 @@ int main()
     {
         //LinkedList* ll = new LinkedList();
 
+        LinkedList* ll_gt = new LinkedList();
+        LinkedList* ll_predict = new LinkedList();
+
         while (!end)
         {
             print_operation_menu();
             cin >> choice_op;
             // Fill here according to the choice
+
+            switch(choice_op) {
+            case '1': {
+                    ifstream file(file_gt);
+                    string line;
+                    // Skip the first line
+                    getline(file, line);
+                    while (getline(file, line)) {
+                        stringstream ss(line);
+                        string chrom, altBase;
+                        int pos;
+                        ss >> chrom >> pos >> altBase;
+                        ll_gt->insert(chrom, pos, altBase);
+                    }
+                    file.close();
+                    break;
+                }
+                case '2': {
+                    ifstream file(file_predict);
+                    string line;
+                    // Skip the first line
+                    getline(file, line);
+                    while (getline(file, line)) {
+                        stringstream ss(line);
+                        string chrom, altBase;
+                        int pos;
+                        ss >> chrom >> pos >> altBase;
+                        ll_predict->insert(chrom, pos, altBase);
+                    }
+                    file.close();
+                    break;
+                }
+
+                case '5': {
+                    ll_predict->printList();
+                    break;
+                }
+
+                case '6': {
+                    string chrom, altBase;
+                    int pos;
+                    cout << "Enter CHROM, POS, ALT BASE of the variant to search: ";
+                    cin >> chrom >> pos >> altBase;
+
+                    ListNode* found = ll_predict->search(chrom, pos, altBase);
+                    if (found != nullptr) {
+                        std::cout << "Variant found: " << found->getChrom() << " " << found->getPos() << " " << found->getAltBase() << std::endl;
+                    } else {
+                        std::cout << "Variant not found." << std::endl;
+                    }
+                    break;
+                    }
+
+                case '7': {
+                    std::vector<ListNode*> gt_nodes, predict_nodes;
+                    ll_gt->storeNodes(gt_nodes);
+                    ll_predict->storeNodes(predict_nodes);
+
+                    int true_positive_count = 0;
+                    for (ListNode* gt_node : gt_nodes) {
+                        for (ListNode* predict_node : predict_nodes) {
+                            if (gt_node->getChrom() == predict_node->getChrom() && gt_node->getPos() == predict_node->getPos() && gt_node->getAltBase() == predict_node->getAltBase()) {
+                                true_positive_count++;
+                                break;
+                            }
+                        }
+                    }
+
+                    cout << "True positive variant count: " << true_positive_count << endl;
+                    break;
+                }
+
+
+                case '0': {
+                    end = true;
+                    break;
+                }
+                default: {
+                    cout << "Invalid operation" << endl;
+                }
+
+            }
         }
     }
 

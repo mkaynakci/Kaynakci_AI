@@ -172,12 +172,64 @@ int main()
                     break;
                 }
 
+                case '3': {
+                    string chrom, altBase;
+                    int pos;
+                    cout << "Enter CHROM, POS, ALT BASE of the variant to add: ";
+                    cin >> chrom >> pos >> altBase;
+                    avt_predict->insert(chrom, pos, altBase);
+                    break;
+                }
+
+                case '4': {
+                    string chrom, altBase;
+                    int pos;
+                    cout << "Enter CHROM, POS, ALT BASE of the variant to delete: ";
+                    cin >> chrom >> pos >> altBase;
+                    avt_predict->remove(chrom, pos, altBase);
+                    break;
+                }
+
+
                 case '5': {
                     cout << "Listing prediction variants:" << endl;
                     avt_predict->printInOrder();
                     break;
                 }
 
+                case '6': {
+                    string chrom, altBase;
+                    int pos;
+                    cout << "Enter CHROM, POS, ALT BASE of the variant to search: ";
+                    cin >> chrom >> pos >> altBase;
+                    AVLNode* found = avt_predict->search(chrom, pos, altBase);
+                    if (found != nullptr) {
+                        cout << "Variant found: " << found->getChrom() << " " << found->getPos() << " " << found->getAltBase() << endl;
+                    } else {
+                        cout << "Variant not found." << endl;
+                    }
+                    break;
+                }
+
+
+                case '7': {
+                    std::vector<AVLNode*> gt_nodes, predict_nodes;
+                    avt_gt->storeInOrder(gt_nodes);
+                    avt_predict->storeInOrder(predict_nodes);
+
+                    int true_positive_count = 0;
+                    for (AVLNode* gt_node : gt_nodes) {
+                        for (AVLNode* predict_node : predict_nodes) {
+                            if (gt_node->getChrom() == predict_node->getChrom() && gt_node->getPos() == predict_node->getPos() && gt_node->getAltBase() == predict_node->getAltBase()) {
+                                true_positive_count++;
+                                break;
+                            }
+                        }
+                    }
+
+                    cout << "True positive variant count: " << true_positive_count << endl;
+                    break;
+                }
 
                 case '0': {
                     end = true;
@@ -234,5 +286,3 @@ void print_operation_menu()
     cout << "0: Exit" << endl;
     cout << "Enter a choice {1,2,3,4,5,6,7,0}:";
 }
-
-

@@ -110,12 +110,12 @@ void AVLTree::storeInOrder(std::vector<AVLNode*>& nodes) {
 }
 
 
-// Search method
+
 AVLNode* AVLTree::search(const std::string& chrom, int pos, const std::string& altBase) {
     return root->search(chrom, pos, altBase);
 }
 
-// Remove method
 AVLNode* AVLTree::remove(const std::string& chrom, int pos, const std::string& altBase) {
     return root->remove(chrom, pos, altBase);
 }
+

@@ -1,0 +1,1259 @@
+Structured Peer Group Supervision for Novice
+Consultants: Procedures, Pitfalls, and
+Potential
+DANIEL S. NEWMAN
+National Louis University
+ALLISON J. NEBBERGALL
+KIPP New Orleans Schools
+DIANE SALMON
+National Louis University
+Supervision is considered a keystone instructional tool in school
+psychology and has been argued to be an essential feature of
+effective consultation training. However, descriptive data suggest
+that supervision is not always incorporated as part of consultation
+training. In this article the application of a structured peer group
+supervision (SPGS) model in preservice training of novice consultants is described, including specific case-related concerns worked
+on during SPGS sessions. The article concludes with a discussion
+of the promise of an SPGS model in consultation training and
+considerations for future research regarding its effectiveness.
+Supervision is considered a keystone pedagogical tool in the helping professions (Bernard & Goodyear, 2009). The field of school psychology is no
+exception. In fact, in a recent position statement on supervision in school
+psychology, the National Association of School Psychologists (NASP; 2011)
+Correspondence should be sent to Daniel S. Newman, Educational Psychology, National
+Louis University, 5202 Old Orchard Road, Room 416, Skokie, IL 60077-4409. E-mail: Daniel.
+newman@nl.edu
+200Structured Peer Group Supervision 201
+advocated for ‘‘the professional supervision of school psychologists by school
+psychologists at all levels of practice (e.g., student, intern, early career, and
+expert) as a means of ensuring effective practices to support the educational
+attainment of all children’’ (p. 1). The need for supervision in school psychology practice is further emphasized in the NASP Professional Standards
+(2010), a set of four documents intended to inform graduate education,
+credentialing, professional practices, and ethical behavior of school psychologists. For instance, in NASP’s Model for Comprehensive and Integrated
+School Psychological Services document, Supervision and Mentoring is designated as a critical feature for organizations employing school psychologists;
+guidance regarding supervisor credentials and supervision processes are also
+provided.
+However, data regarding supervision practices in school psychology (at
+preservice, internship, and inservice levels) appear to contradict assertions
+regarding supervision’s importance. For example, descriptive studies have
+demonstrated (a) limited availability and perceived insufficiency of clinical supervision for practicing school psychologists (Chafouleas, Clonan, &
+Vanauken, 2002; Curtis, Castillo, & Gelley, 2012; Fischetti & Crespi, 1999);
+(b) a lack of supervision techniques other than case consultation (i.e., talking
+about cases) predominately applied by supervisors (Cochrane, Salyers, &
+Ding, 2010; Romans, Boswell, Carlozzi, & Ferguson, 1995; Ward, 2001);
+and (c) supervisors (both field and university) not having completed supervision coursework, ongoing professional development on supervision,
+or formal metasupervision (i.e., supervision of supervision; Cochrane et al.,
+2010; Ward, 2001). A number of factors may account for the gap between
+the purported value of supervision and what is actually practiced, including
+complexity in defining and researching supervision (Knoff, 1986; McIntosh &
+Phelps, 2000). Moreover, much of what we claim to know about supervision
+in school psychology is largely informed from research in other mental health
+fields such as Clinical Psychology, Psychotherapy, and Social Work (e.g., see
+Bernard & Goodyear, 2009).
+Consistent with the field of school psychology as a whole, the provision
+of supervision in school consultation is argued to be critical (Cramer &
+Rosenfield, 2003; Harvey & Struzziero, 2008; Newman, 2012b; Rosenfield,
+Levinsohn-Klyap, & Cramer, 2010), yet research and practice in this area
+remain deficient (e.g., see Anton-LaHart & Rosenfield, 2004). Nonetheless,
+a popular opinion that has permeated the consultation literature is that
+consultation skills are not learned on the fly; intensive, strategic, and developmentally focused training including supervision is argued to be essential
+in supporting the development of competent consultants (Rosenfield, 2012;
+Rosenfield et al., 2010; Ysseldyke, Burns, & Rosenfield, 2009). Some recent
+research studies have provided support for the importance of consultation training (e.g., Arra, 2010; Newell, 2010a, 2010b, 2012) and supervision
+(Newman, 2012a).202 D. S. Newman, A. J. Nebbergall, and D. Salmon
+In this article we present a structured peer group supervision (SPGS)
+model for novice consultants in training (CITs) and describe its application
+at nondoctoral and doctoral levels of consultation training. In so doing, our
+purposes are to (a) provide a structure that can be immediately applied by
+consultation trainers and CITs to augment the effectiveness of consultation
+training and (b) open a new potential avenue to extend upon consultation
+training and supervision research. To begin, we briefly define and describe
+supervision in school psychology including prevalent models, techniques,
+and formats. Specific attention is given to SPGS, including the delineation
+of an adapted model. Next, using specific examples from our incorporation
+of the model in consultation training, we describe how the model can be
+instructed and applied at nondoctoral and doctoral levels and in small and
+large groups. The article concludes with a discussion of the promise of an
+SPGS model in consultation training and considerations for future research
+regarding its effectiveness.
+SUPERVISION IN SCHOOL PSYCHOLOGY
+Broadly defined, supervision in school psychology is ‘‘an interpersonal interaction between two or more individuals for the purpose of sharing knowledge, assessing professional competencies, and providing objective feedback
+with the terminal goals of developing new competencies, facilitating effective
+delivery of psychological services, and maintaining professional competencies’’ (McIntosh & Phelps, 2000, pp. 33–34). Unlike related fields, school
+psychology is embedded within a complex educational context, which may
+require unique contextual considerations in supervision (Crespi & Dube,
+2005; Harvey & Pearrow, 2010; Harvey & Struzziero, 2008). Because the
+McIntosh and Phelps (2000) definition of supervision is broad, it may be
+considered inclusive of a variety of supervision models, techniques, and
+formats that may be applied by supervisors in support of trainees and practitioners.
+Models
+Harvey and Struzziero (2008) argued that ‘‘the structure of clinical supervision
+profoundly influences its potential to be effective’’ (p. 182). The structure of
+supervision is in large part informed by a supervisor’s theoretical orientation
+and choice of supervision model. In the general psychology supervision
+literature, there exist countless models of supervision such as (a) those
+rooted in psychotherapy (e.g., psychodynamic, person-centered, cognitivebehavioral), (b) developmental models (both stage-based and processdriven), and (c) social role models (Bernard & Goodyear, 2009). AlthoughStructured Peer Group Supervision 203
+a number of models have been discussed in school psychology supervision
+literature there is no evidence to suggest one model is superior to others
+(Kaufman, 2010).
+Techniques
+Supervision is also constructed via techniques (also called methods or interventions) applied by supervisors. The choice of techniques is informed
+by the supervisor’s orientation and model as well as supervision goals and
+supervisee developmental level (Bernard & Goodyear, 2009). Examples of
+techniques include case consultation, cofacilitation of activities, live observation, audio/videotaping, role playing, supervisor modeling/supervisee rehearsal, and written information (e.g., process notes, progress notes, and
+transcription). Even though a number of techniques may be relevant to apply,
+supervisors do not always select a wide range of strategies or implement the
+ones they view as most effective (Romans et al., 1995). For a further description of supervisory techniques, including advantages and disadvantages, the
+reader is referred to Harvey and Struzziero (2008).
+Formats
+Individual supervision. Individual supervision is the most commonly
+applied format, consisting of one supervisor working with one supervisee.
+This format is potentially the most time consuming to apply; however, it
+allows for differentiation of supervision to meet the unique needs of the
+supervisee and allows for close evaluation of progress toward supervision
+goals. An alternate way to provide individual supervision that may be more
+time efficient is in a small group during which the supervisor works with
+each supervisee individually in a round-robin fashion (Harvey & Struzziero,
+2008).
+Group supervision. Group supervision is the ongoing meeting of a group
+of supervisees with a supervisor or supervisors during which ‘‘supervisees are
+aided in achieving [their] goals by their supervisor(s) and by their feedback
+from and interactions with each other’’ (Bernard & Goodyear, 2009, p. 244).
+Supervision can be provided to the group as a whole regarding common
+issues or individually within the group setting (Harvey & Struzziero, 2008).
+Even though there exists a wide range of potential variability in the structure
+of group supervision (Mastoras & Andrews, 2011), Harvey and Struzziero
+(2008) offered some guiding principles. Group size should be limited to
+between four and eight participants and supervisee developmental levels
+and topics of interest should be relatively homogeneous. In addition, the
+authors suggest that having a group structure for presenting and discussing
+cases and supervisor provision of feedback can be helpful.204 D. S. Newman, A. J. Nebbergall, and D. Salmon
+Peer group supervision. Peer group supervision is a type of group supervision that is nonhierarchical; such groups are leaderless (Counselman &
+Weber, 2004), participants have comparable levels of experience, and supervision does not include a formal evaluation process (Bernard & Goodyear,
+2009). Zins and Murphy (1996) investigated what they called ‘‘peer support
+groups’’ in school psychology. Analogous to peer supervision groups, Zins
+and Murphy defined peer support groups as ‘‘a small group of professionals
+with a common area of interest who meet periodically to learn together, to
+share their expertise, and to support one another in their ongoing professional development’’ (p. 176). The authors conceptualized such groups as a
+form of embedded professional development for school psychologists and
+found that 64% of respondents (n D 399) reported prior or current participation in such a group. Perceived benefits of peer support groups included
+improved skills in providing specific psychological services, expanded range
+of services offered, increased enthusiasm for the job, increased use of accountability measures, increased involvement in professional organizations,
+and increased knowledge base in school psychology. Of their participants,
+93% expressed a moderate or higher level of interest in becoming part of a
+peer group.
+Clearly, peer support is perceived to be of benefit at the inservice level.
+This may be due in part to the fact that other types of supervisory support are
+not always available to school psychologists once they enter the field. For
+example, Zins and Murphy (1996) found that of their respondents, only 14%
+received individual clinical supervision. However, it seems that school psychology practitioners do not always access peer support. In the most recent
+NASP member survey, Curtis et al. (2012) found that only 56.2% of the fulltime school psychologist respondents received administrative supervision
+(i.e., focused on administrative issues vs. clinical skills), and only 28.5% reported systematic professional support, mentoring, and/or peer supervision.
+Perhaps a gap exists regarding how to best access peer support.
+Structured peer group supervision (SPGS). Some authors have suggested
+that group and peer group supervision may be most effective when implemented with a formal structure. For example, Borders (1991) described a
+systematic approach to group supervision that she applied over 6 years with
+90 counselors-in-training. Groups include three to six supervisees with a
+trained supervisor acting in the role of moderator and process observer.
+Although Borders described the model as ‘‘peer group supervision,’’ it does
+not seem to be leaderless and includes a supervisor who formatively assesses
+developmental levels of supervisees. Even though the Borders model is
+not necessarily a pure peer group model according to formal definitions,
+peers do take an active role in supporting one another, and preparation for
+supervision is seen to be critical in the supervision process.
+Steps described by Borders (1991) include (a) supervisees identifying
+questions/concerns about their videotaped counseling work and requestingStructured Peer Group Supervision 205
+feedback; (b) peer supervisors choosing or being assigned roles, perspectives, or tasks for when they review the presenter’s tape (e.g., observing
+communication skills or nonverbal behaviors, taking the perspective of the
+client, or other variations); (c) presentation of a video segment; (d) provision
+of feedback from peer supervisors through the lens of assigned roles or
+perspectives; (e) discussion facilitated by the supervisor; (f) summary by the
+supervisor; and (g) the supervisee indicating if his or her needs were met by
+the supervision. The Borders model has also been adapted to incorporate
+multicultural considerations, adding a group member role for observing/
+providing feedback on cultural issues at the second step and encouraging
+an increased multicultural focus from the supervisor throughout the process
+(Lassiter, Napolitano, Culbreth, & Ng, 2008).
+Wilbur, Roberts-Wilbur, Hart, and Morris (1994) described and piloted
+a structured model of group supervision over 7 years; 194 counselors-intraining at three different universities were assigned to the structured group
+supervision condition and 50 students to a control condition that included
+didactic instruction, an unstructured group process, and a case-conceptualization-skill acquisition focus; the structured model was not applied. The
+structure in the treatment group included (a) a request for assistance from
+one supervisee, (b) a questioning period from supervisees, (c) feedback
+statements from supervisees, (d) a pause period, (e) a supervisee response,
+and (f) optional discussion. Supervision groups ranged from 8 to 12 students in size. A pretest-posttest analysis demonstrated the structured group
+supervision condition was superior to the control condition as measured by
+a Counselor Skill and Personal Development Rating Form; in other words,
+the structured group was rated to be more effective than the control group in
+augmenting novice trainees’ counseling skills and personal growth. In short,
+the results of this pilot suggest that adding structure to a group supervision
+process is of potential benefit to participants.
+Adaptation of SPGS for Novice CITs
+We have adapted the structured group supervision models proposed by
+Borders (1991) and Wilbur et al. (1994) and applied them in the supervision
+of novice CITs. Although the Wilbur et al. model was piloted with groups
+of 8 to 12 and Harvey and Struzziero (2008) suggested groups of 4 to 8,
+we have found SPGS to be useful for both small-group (3 to 6 CITs) and
+large-group supervision (7 to as many as 16 CITs). Furthermore, although
+we have predominantly applied this model at the preservice level, two of
+the authors (Newman and Salmon) have begun to employ the model in
+ongoing professional development work on consultation at the inservice
+level. This application seems to fit with data from Zins and Murphy (1996)
+suggesting that school psychologist practitioners relish opportunities for peer
+support.206 D. S. Newman, A. J. Nebbergall, and D. Salmon
+The steps. Our adapted structure for SPGS is featured in the Appendix
+and is also featured as an appendix in the syllabi for the consultation courses
+we teach. Consistent with characteristics of effective peer groups as described
+by Counselman and Weber (2004), CITs are expected to develop a working
+group contract, work collaboratively through any problems that may arise,
+and stay on task during group discussions by following the format provided.
+Groups are also expected to determine a process for prioritizing whose turn
+it is to request help from the group; time is limited, and all group members
+will likely not get a chance to present/receive feedback during each SPGS
+session.
+The presenting CIT provides the group sufficient background information on his or her consultation casework and explicitly requests assistance
+on a specific problem. Audio/videotapes, transcripts, written summaries, or
+other data can be shared to help others understand the dilemma. As instructors, we have noticed that suggesting CITs bring data to supervision encourages preparation. Following the CIT’s request for assistance, group members
+paraphrase and clarify the information to make sure they understand the
+presenting problem. Not coincidentally, the emphasis during the ‘‘Seeking
+Clarification’’ stage is on the skills we want CITs to be practicing in their
+consultation work (e.g., active listening, distinguishing between clarifying
+and relevant questions, avoiding advice giving). Once clarifying questions
+are exhausted (i.e., the request for assistance is sufficiently clear), group
+members provide feedback regarding their perspectives on the case and
+what they would do if they were in the presenter’s shoes. It is important that
+at this point in the process the CIT remains silent in order to critically listen
+to feedback. Our students have reported that staying silent and listening at
+this stage is challenging because the natural tendency is to become defensive
+(e.g., ‘‘Yes, but : : : ’’) when others are offering perspectives on the situation.
+Hence, after feedback is provided, the group takes a short break to
+allow for the presenting CIT to reflect on what was suggested, and then the
+CIT is able to offer a response statement to the group. At this point, group
+members remain silent, and the presenting CIT can let others know what
+was helpful or not helpful (and why) and describe the next steps they will
+take in their consultation work. If the groups are part of a larger group (e.g.,
+Newman and Salmon’s current class has 16 CITs divided into four groups of
+4 CITs each), all groups may come together at the end to discuss pertinent
+issues.
+It should be noted that in addition to the in-class SPGS process, CITs
+are required to complete session logs for each consultation session held with
+their consultee(s). For these logs, students are required to listen to their taped
+session and to reflect on the consultation process, the consultant-consultee
+relationship, and their use of communication skills. These logs serve as a
+guide for critical thought on the consultation session as well as a source
+of evidence to present during the SPGS case presentation. The reader isStructured Peer Group Supervision 207
+referred to Burkhouse (2012) for a reflective log template that can be used
+in consultation training.
+Direct instruction of the SPGS. The process we have just presented is
+deceptively simple. In fact, several of the components may be considered
+contrary to natural tendencies of interaction. For example, individuals tend to
+offer advice before fully understanding concerns and tend to ask questions
+about what they are thinking (i.e., relevant questions) even if it is not directly
+related to the information someone has just shared. Therefore, we have found
+it useful to engage in an explicit ‘‘I do, we do, you do’’ process of instruction,
+modeling, and practice to teach CITs how to access supervision through an
+SPGS process. The timeline for teaching the process and its implementation
+are highlighted in Table 1.
+To teach the SPGS model, CITs first read through the steps of the
+process, and then we discuss it as a class, including the rationale for each
+stage (as described earlier in this article). Next, the process is modeled in
+front of the class. Because Newman and Salmon co-teach, one acts as a group
+TABLE 1 Proposed Timeline for Implementing SPGS of Consultation at the Preservice Level
+Level of consultation training
+Approximate
+week of
+consultation
+training
+Instructional
+stage Nondoctoral Doctoral
+6  CITs begin school–
+based consultation
+with a teacher
+ CITs begin school-based
+consultation with a teacher
+10 ‘‘I do’’  SPGS is overviewed
+ SPGS is modeled
+ SPGS is overviewed
+ SPGS is modeled
+11  SPGS is reviewed  SPGS is reviewed
+10 to 20 ‘‘We do’’  SPGS is implemented
+in full class setting
+(approximately 16
+CITs); individual CITs
+taking turns to present
+on cases
+ Instructor acts as
+moderator to make
+sure SPGS is followed
+ SPGS is implemented in a small
+group setting; CITs taking turns
+presenting on cases (all students
+have a turn each week)
+ Instructor acts as a model and
+moderator to make sure SPGS is
+followed
+12 or 13  CITs take turns as
+moderator to make
+sure SPGS is followed
+ CITs self-monitor to make sure
+SPGS is followed
+ Instructor acts as a peer
+participant in the group
+21 to 30 ‘‘You do’’  SPGS is implemented
+in small groups
+(approximately 4 CITs)
+ Instructor is freed to
+take on varying
+supervisory roles
+ SPGS continues to be
+implemented in a single small
+group
+ Instructor acts as a peer
+participant
+CIT D consultant in training; SPGS D structured peer group supervision.208 D. S. Newman, A. J. Nebbergall, and D. Salmon
+participant working with three volunteer CITs and the other acts as a ‘‘process
+narrator’’ helping the class, as well as the small group itself, understand
+and work through the stages sequentially and effectively. Following SPGS
+modeling, the instructors facilitate a class discussion to address lingering
+questions or concerns. The process is reviewed the following week prior to
+its application by CITs.
+SPGS at the nondoctoral level. Newman and Salmon co-teach a 30-week
+(three quarters or two semesters) three-course consultation sequence for
+second-year school psychology students, where students begin consulting
+with teachers in schools around Week 6 and take on two to three cases
+during the sequence. The SPGS is practiced as a full class (CITs sign up to
+present on their ongoing casework) between Weeks 10 and 20 and in small
+groups (approximately four CITs) during Weeks 21 through 30. Although
+the instructors in some ways facilitate the full class SPGS process to begin
+with (e.g., ‘‘Are there any additional clarifying questions?’’ or ‘‘Have we
+inadvertently jumped into the feedback stage?’’), a volunteer CIT takes the
+role of making sure the class is not deviating from the SPGS format after a few
+weeks. The same CIT also keeps track of time to make sure class participation
+is maximized but that those who are presenting that day receive sufficient
+feedback.
+We estimate that by the third quarter of our sequence (approximately
+Week 21), the CITs have begun to develop a sufficient knowledge of consultation content and process to begin to support one another in small groups,
+and we have provided sufficient practice in SPGS for the process to run
+smoothly. The groups are determined by the CITs based on the level of
+school they are working at, as concerns may have increased homogeneity.
+As CITs apply the SPGS independently in small groups, the instructors are
+freed up to take on different roles during this time (e.g., providing individual
+supervision to a CIT in need, acting as a ‘‘fly on the wall’’ in groups, or
+participating as a ‘‘peer’’ in groups while sticking to the SPGS format).
+SPGS at the doctoral level. Nebbergall recently applied the SPGS framework at the doctoral level in the second semester of a 30-week school
+consultation course sequence during which students engage in a schoolbased practicum and take on three consultation cases. The class consisted
+of three students in their second year. Historically, practica for this course
+were paired with individual supervision for each CIT. However, as noted
+earlier, the provision of individual supervision requires both extensive time
+and staff resources, which were not available for this semester. SPGS was
+piloted as an alternative.
+The small class size typical of a doctoral-level program led to select
+modifications to the SPGS process. First, the supervision framework was
+immediately modeled and practiced in a small group. Second, all students
+had the opportunity to receive supervision each week. The role of the
+instructor also varied from the larger group application. Given the smallStructured Peer Group Supervision 209
+number of students, the instructor was able to sit in as a ‘‘peer’’ in the
+group, initially acting as a model and moderator of the process and later as
+a peer group member in requesting clarification and providing feedback to
+the presenting CIT.
+Having participated in individual supervision as part of other classes,
+this group of CITs was uniquely poised to draw comparisons between their
+experiences with the SPGS model and the more traditional individual supervision model. CITs largely provided positive feedback, citing the advantages
+of vicarious learning from peers. CITs felt that they were able to reflect on
+and plan for their own cases based on feedback given by classmates during
+the SPGS process.
+When participating in the SPGS process, CITs did not have a supervisor
+reviewing their taped consultation session weekly. CITs reported feeling less
+anxiety during their consultation sessions as a result. They felt ‘‘more present’’
+in the consultation dyad rather than feeling distracted by fear of judgment or
+evaluation from a supervisor. On the other hand, although CITs felt that the
+session logs provided adequate opportunity and guidance for reflection on
+the consultant–consultee relationship and their use of communication skills,
+they acknowledged that an individual supervisor might have more strongly
+challenged them in these areas, especially if given access to tapes.
+Examples of SPGS in action. Newman and Salmon informally surveyed
+the CITs in their consultation class regarding (a) what requests for help
+were made in their supervision groups, (b) what specific clarifying questions or other communication interactions supported the supervision group’s
+understanding of the problem, and (c) what feedback was most useful in
+addressing requests for help.
+Examples of requests for help. Requests for help appear to cluster under
+categories of concerns that are commonly faced by novice CITs (Conoley,
+1981; Newman, 2012b) including problem-solving process variables (e.g.,
+difficulty with scheduling meetings; how to make an intervention a shared
+responsibility), problem-solving stages (e.g., where to go next in a case),
+communication skills (e.g., how well did the CIT use communication skills
+during the consultation case session?), CIT’s status as a student (e.g., is
+the consultee working with me because they need help or to help me
+complete an assignment?), relationships (e.g., how to deal with conflict in
+a consultation), and supervision (e.g., negotiating the roles of CIT and field
+supervisor in the consultation case). Note, this is not a comprehensive list
+of requests for help/CIT concerns but rather a few examples of issues that
+might be discussed in SPGS of school consultation; the reader is referred to
+Newman (2012b) for a consideration of other common concerns that might
+arise for CITs during supervision.
+Examples of clarifying questions. Following are a few examples of clarifying questions that CITs incorporated in their SPGS sessions at the second
+step of the process. Again, rather than attempting to list all questions asked210 D. S. Newman, A. J. Nebbergall, and D. Salmon
+during SPGS, this list is intended to illustrate how peer consultants might
+help seek clarification during SPGS.
+ How will you discuss the intervention with the consultee?
+ You said cultural factors might be playing a role in the identified problems.
+What cultural factors?
+ What does teacher instructional support look like?
+ What do you mean by ‘‘emotionally disturbed’’?
+ What were the consultee’s nonverbal behaviors?
+Examples of feedback. Finally, CITs provided us with examples of feedback that they found helpful in their SPGS work. CITs found it supportive
+when peers acknowledged that a case was difficult/validated their concerns
+or shared information regarding their own related experiences (e.g., ‘‘I used
+this intervention in the past and here’s how it worked.’’). Peers sometimes
+provided specific feedback regarding a presenter’s need to collect more
+information in a case, including completing a student record review or a
+classroom observation focused on instructional practices. Specific feedback
+was also provided regarding a number of process variables in presenters’
+consultation work such as how to discuss intervention implementation with
+a teacher/consultee, where to go next in the process when the CIT felt stuck,
+evaluation of communication skills after listening to a segment of a taped
+consultation session, and how the peer might address relationship difficulties
+if he or she were in the presenter’s shoes.
+Potential Pitfalls of an SPGS Approach
+The potential benefits of applying SPGS seem clear, but the process is not
+perfect. One challenge of SPGS includes navigating group dynamics; not every group functions fluidly from the start, and some group members are more
+motivated to participate actively than others. It is not clear whether it is more
+advantageous for instructors to assign groups based on perceptions of CIT
+skills and effort or to allow CITs to choose groups for themselves based on
+consultation case commonalities. Despite prospective challenges with group
+dynamics, we believe the structure in some ways encourages individual accountability (i.e., the CIT will have to present at some point in time and wants
+to provide useful feedback to his or her peers). Another possible pitfall for
+SPGS is that the process may be perceived or experienced as too contrived.
+This seems especially to be the case as CITs are first learning the SPGS process. The process does not necessarily allow for the flexibility or adaptability
+needed to deal with crisis situations; nor does it leave a great deal of space
+for socializing/developing rapport. Furthermore, CITs are unlikely to see a
+formal SPGS model in place at their practicum, internship, or future employment sites, so the process may seem aberrant from the realities of practice.Structured Peer Group Supervision 211
+The Promise of an SPGS Approach
+In spite of some challenges in its application, SPGS appears to hold potential
+as a format for supervision of consultation at the preservice level. We have
+found that the structure of the process requires participants to be prepared
+for and engaged in supervision. CITs reflect on their ongoing consultation
+cases each week and bring in specific concerns that are tied to materials
+(e.g., audio/video, data, or other) from their work. In addition, SPGS includes embedded opportunities for CITs to practice consultation skills such
+as engaging in active listening, asking clarifying questions, paraphrasing,
+and providing thoughtful feedback. We see these skills as applicable to their
+ongoing and future consultation work and also to their skills in providing
+peer support to school psychology colleagues in the future. Further, SPGS
+is built on foundations of vicarious learning. First, CITs are able to learn
+from each other’s consultation casework—gaining exposure to a variety of
+experiences they may not otherwise have accessed. Second, they can gain
+information from a number of peer supervisors, each who may have some
+divergent perspectives.
+Because most school psychology training programs do not include extensive supervision of consultation (Anton-LaHart & Rosenfield, 2004; Hazel,
+Laviolette, & Lineman, 2010), SPGS may be seen as an enhancement of
+current consultation training practices. Although some preliminary evidence
+suggests supervision can be of benefit to CITs (Newman, 2012a), there
+does not yet exist evidence regarding SPGS for school consultation training.
+However, as seen in our descriptions, the method seems to hold promise in
+supporting nondoctoral consultation courses with large numbers of students
+as well as small classes of doctoral students.
+SPGS also seems relevant to supporting inservice-level consultation skill
+development and practice and to support training and practice in other
+professional skill domains such as assessment, counseling, and supervision
+(e.g., SPGS can be used for metasupervision). In fact, because data suggest
+variability regarding the quantity and quality of supervision in the field,
+application of an SPGS model may help fill a needed gap. Moreover, when
+students are explicitly trained in an SPGS approach during their school
+psychology training, perhaps they will be more likely to apply this method,
+or aspects of the method, when supporting or receiving support from peers
+in the field.
+A Proposed Research Agenda
+The authors of this article feel SPGS holds promise as part of consultation
+training and also as a mode for providing supervision at the preservice
+and inservice levels for other domain areas. However, to date, our recommendations remain unsupported by empirical data. Research studies in212 D. S. Newman, A. J. Nebbergall, and D. Salmon
+the areas of supervision in school psychology in general, and supervision
+of consultation in particular, are few and far between. To the best of the
+authors’ knowledge, research on an SPGS model for supervision in school
+psychology is nonexistent, let alone on SPGS in school consultation training.
+Empirical evidence that an SPGS approach is beneficial for CITs could make a
+significant impact on how training programs approach consultation training.
+Although additional descriptive studies may provide a starting point for
+research (e.g., How many school psychology training programs currently
+incorporate group and/or peer group supervision in consultation training?
+How is it structured? What is the social validity of the process?), given the
+dearth of literature and research in this area, we may already know the
+answers to many of these questions. Therefore, it may be helpful to complete
+a study that includes random assignment of CITs to supervision conditions
+(e.g., SPGS alone, combination of SPGS and individual, individual alone) and
+includes evaluation on a number of domains (e.g., CIT competency development, acceptability, feasibility, integrity of implementation, and impact on
+consultees and clients [the gold standard of supervision research], to name
+a few). Further, it would be worthwhile to study how, if at all, involvement
+in an SPGS model at the preservice level affects peer supervision processes
+during the internship, early career, and beyond.
+Summary
+A contradiction exists between the proposed need for supervision in school
+psychology training and practice and the actions of university educators and
+field-based practitioners. In this article, we have proposed a structured peer
+group supervision (SPGS) model as one promising approach to bridge this
+gap. We have attempted to demonstrate the value of SPGS for nondoctoral
+and doctoral consultants in training (CITs), and we have suggested that SPGS
+also may be relevant at the inservice level in supporting consultation skill
+development in addition to other domains. Although the approach is not
+without challenges, our experiences and feedback from students suggest it
+is worth the effort. However, we also realize that anecdotal assertions are
+not sufficient in and of themselves to support our claims. We hope this
+article serves as a call for future research in the areas of supervision and
+consultation, research that can inform increasingly effective training practices
+in the field.
+REFERENCES
+Anton-LaHart, J., & Rosenfield, S. (2004). A survey of preservice consultation training
+in school psychology programs. Journal of Educational and Psychological
+Consultation, 15, 41–62.Structured Peer Group Supervision 213
+Arra, C. T. (2010). An examination of cross-cultural curriculum development and student cross-cultural competencies in a school-based consultation course. Journal
+of Educational and Psychological Consultation, 20, 169–183.
+Bernard, J. M., & Goodyear, R. K. (2009). Fundamentals of clinical supervision
+(4th ed.). Boston, MA: Pearson.
+Borders, L. D. (1991). A systematic approach to peer group supervision. Journal of
+Counseling and Development, 69, 248–252.
+Burkhouse, K. S. (2012). Educating a reflective school consultant: Multi-faceted techniques. In S. Rosenfield (Ed.), Becoming a school consultant: Lessons learned
+(pp. 25–47). New York, NY: Routledge.
+Chafouleas, S. M., Clonan, S. M., & Vanauken, T. L. (2002). A national survey of
+current supervision and evaluation practices of school psychologists. Psychology
+in the Schools, 39, 317–325.
+Cochrane, W. S., Salyers, K., & Ding, Y. (2010). An examination of the preparation, supervisor’s theoretical model, and university support for supervisors of
+school psychology interns. Trainers’ Forum: Journal of the Trainers of School
+Psychologists, 29(1), 6–23.
+Conoley, J. C. (1981). Emergent training issues in consultation. In J. C. Conoley (Ed.),
+Consultation in schools: Theory, research, and procedures (pp. 223–263). New
+York, NY: Academy Press.
+Counselman, E. F., & Weber, R. L. (2004). Organizing and maintaining peer supervision groups. International Journal of Group Psychotherapy, 54, 125–143.
+Cramer, K., & Rosenfield, S. (2003). Clinical supervision of consultation. The Clinical
+Supervisor, 22, 111–124.
+Crespi, T. D., & Dube, J. M. B. (2005). Clinical supervision in school psychology:
+Challenges, considerations, and ethical and legal issues for clinical supervisors.
+The Clinical Supervisor, 24, 115–135.
+Curtis, M. J., Castillo, J. M., & Gelley, C. (2012). School psychology 2010: Demographics, employment, and the context for professional practices. Part 1.
+Communiqué, 40(7), 1, 28–30.
+Fischetti, B. A., & Crespi, T. D. (1999). Clinical supervision for school psychologists:
+National practices, trends and future implications. School Psychology International, 20, 278–288.
+Harvey, V. S., & Pearrow, M. (2010). Identifying challenges in supervising school
+psychologists. Psychology in the Schools, 47, 567–581.
+Harvey, V. S., & Struzziero, J. (2008). Professional development and supervision of
+school psychologists: From intern to expert (2nd ed.). Bethesda, MD: Corwin
+Press and NASP Publications.
+Hazel, C. E., Laviolette, G. T., & Lineman, J. M. (2010). Training professional psychologists in school-based consultation: What the syllabi suggest. Training and
+Education in Professional Psychology, 4, 235–243.
+Kaufman, J. (2010). Contemporary issues in supervision. In J. Kaufman, T. L. Hughes,
+& C. A. Riccio (Eds.), Handbook of education, training, and supervision of
+school psychologists in school and community (Vol. 2, pp. 19–35). New York,
+NY: Routledge.
+Knoff, H. M. (1986). Supervision in school psychology: The forgotten or future path
+to effective services? School Psychology Review, 15, 529–545.214 D. S. Newman, A. J. Nebbergall, and D. Salmon
+Lassiter, P. S., Napolitano, L., Culbreth, J. R., & Ng, K. (2008). Developing multicultural competence using the structured peer group supervision model. Counselor
+Education and Supervision, 47, 164–178.
+Mastoras, S. M., & Andrews, J. J. W. (2011). The supervisee experience of group
+supervision: Implications for research and practice. Training and Education in
+Professional Psychology, 5, 102–111.
+McIntosh, D. E., & Phelps, L. (2000). Supervision in school psychology: Where will
+the future take us? Psychology in the Schools, 37, 33–38.
+National Association of School Psychologists. (2010). Professional standards. Bethesda,
+MD: Author.
+National Association of School Psychologists. (2011). Supervision in school psychology (Position Statement). Bethesda, MD: Author.
+Newell, M. (2010a). The implementation of problem-solving consultation: An analysis of problem conceptualization in a multiracial context. Journal of Educational
+and Psychological Consultation, 20, 83–105.
+Newell, M. (2010b). Exploring the use of computer simulation to evaluate the implementation of problem-solving consultation. Journal of Educational and Psychological Consultation, 20, 228–255.
+Newell, M. L. (2012). Transforming knowledge to skill: Evaluating the consultation
+competence of novice school-based consultants. Consulting Psychology Journal:
+Practice and Research, 64(2), 8–28.
+Newman, D. S. (2012a). A grounded theory study of supervision of preservice
+consultation training. Journal of Educational and Psychological Consultation,
+22, 247–279.
+Newman, D. (2012b). Supervision of school-based consultation training: Addressing
+the concerns of novice consultants. In S. Rosenfield (Ed.), Becoming a school
+consultant: Lessons learned (pp. 49–70). New York, NY: Routledge.
+Romans, J. S. C., Boswell, D. L., Carlozzi, A. F., & Ferguson, D. B. (1995). Training and
+supervision practices in clinical, counseling, and school psychology programs.
+Professional Psychology: Research and Practice, 26, 407–412.
+Rosenfield, S. (Ed.). (2012). Becoming a school consultant: Lessons learned. New
+York, NY: Routledge.
+Rosenfield, S., Levinsohn-Klyap, M., & Cramer, K. (2010). Educating consultants for
+practice in the schools. In E. Vasquez, T. D. Crespi, & C. Riccio (Eds.), Handbook
+of education, training, and supervision of school psychologists in school and
+community (Vol. 1, pp. 259–278). New York, NY: Routledge.
+Ward, S. B. (2001). Intern supervision in school psychology: Practice and process
+of field-based and university supervisors. School Psychology International, 22,
+269–284.
+Wilbur, M. P., Roberts-Wilbur, J., Hart, G. M., & Morris, J. R. (1994). Structured
+group supervision (SGS): A pilot study. Counselor Education and Supervision,
+33, 262–279.
+Ysseldyke, J., Burns, M. K., & Rosenfield, S. (2009). Blueprints on the future of
+training and practice in school psychology: What do they say about educational
+and psychological consultation? Journal of Educational and Psychological Consultation, 19, 177–196.
+Zins, J. E., & Murphy, J. J. (1996). Consultation with professional peers: A national
+survey of the practices of school psychologists. Journal of Educational and
+Psychological Consultation, 17, 175–184.Structured Peer Group Supervision 215
+APPENDIX
+STRUCTURED PEER GROUP SUPERVISION FORMAT
+In class, students will have the opportunity to engage in peer supervision
+regarding experiences during their consultation work. Consistent with characteristics of well-functioning peer supervision groups (e.g., see Counselman
+& Weber, 2004), you will be expected to (a) develop a working group
+contract, (b) stay on task during group discussions, (c) work collaboratively
+through problems, and (d) follow a format for group supervision as provided
+here. Any violations of the group contract should be discussed and addressed
+by the group.
+The following steps adapted from the work of Borders (1991) and
+Wilbur, Roberts-Wilbur, Hart, and Morris (1994) provide a format for group
+supervision:
+Step 1: Request for Help. The presenting consultant in training (CIT) states
+what assistance is being requested from the supervision group. Summary
+information may be presented using audio/videotapes, data from the case,
+written summaries, and/or verbal statements. Following the presentation of
+information, the CIT should state what he or she is requesting assistance
+with (e.g., ‘‘I need the group’s help to : : : ’’).
+Step 2: Seeking Clarification. The group members should paraphrase and
+clarify regarding the information presented in Step 1 to make sure they
+accurately understand the presenting concern(s). Peers should avoid asking relevant questions (e.g., those not stemming directly from information
+provided by the presenter). Questions should be asked one at a time in
+an orderly manner until there are no more questions (i.e., the request for
+assistance is clear).
+Step 3: Feedback. Group members respond to the information provided
+in Steps 1 and 2 by stating how they might handle their peer’s concern
+(e.g., ‘‘If I were working with that teacher, I might : : : ’’). The presenting CIT
+should remain silent but take notes regarding the comments or suggestions.
+Feedback should be provided one at a time in an orderly manner until there
+is no additional feedback.
+Pause/Break: A break of a few minutes between Steps 3 and 4 allows for
+the presenting CIT’s reflection on the group members’ feedback.
+Step 4: Response Statement. The group members remain silent and allow
+the presenting CIT to respond to each person’s feedback, one at a time. The
+presenting CIT may choose to state whether particular feedback was helpful
+or not and why it was helpful or not. The response statement concludes with
+the presenting CIT summarizing the next steps for the consultation work.
+Step 5: Discussion (optional). Time depending, issues discussed in small
+peer supervision groups may be discussed with the full class.216 D. S. Newman, A. J. Nebbergall, and D. Salmon
+Daniel S. Newman, PhD, is an Assistant Professor in the School Psychology Program at
+National Louis University in Illinois, having earned his doctoral degree in school psychology
+from the University of Maryland, College Park. His research interests include school consultation, consultation training, and supervision. He is chair of the National Association of School
+Psychologists Early Career Workgroup.
+Allison J. Nebbergall, PhD, is a school psychologist for the KIPP New Orleans Schools
+charter network, having earned her doctorate in school psychology from the University of
+Maryland, College Park. She specializes in school and community-based program evaluation.
+Diane Salmon, PhD, received her doctorate in educational psychology (with concentrations
+in school psychology and human development) from the University of Wisconsin-Madison in
+1989. She is a tenured faculty member at National Louis University in school and educational
+psychology and interim director for research in the College of Education. Dr. Salmon’s research
+focuses on relationships between social cognition, learning, and curriculum design.
+Note: The authors report that to the best of their knowledge neither they nor their affiliated
+institutions have financial or personal relationships or affiliations that could influence or bias
+the opinions, decisions, or work presented in this articleStructured Peer Group Supervision 201
+advocated for ‘‘the professional supervision of school psychologists by school
+psychologists at all levels of practice (e.g., student, intern, early career, and
+expert) as a means of ensuring effective practices to support the educational
+attainment of all children’’ (p. 1). The need for supervision in school psychology practice is further emphasized in the NASP Professional Standards
+(2010), a set of four documents intended to inform graduate education,
+credentialing, professional practices, and ethical behavior of school psychologists. For instance, in NASP’s Model for Comprehensive and Integrated
+School Psychological Services document, Supervision and Mentoring is designated as a critical feature for organizations employing school psychologists;
+guidance regarding supervisor credentials and supervision processes are also
+provided.
+However, data regarding supervision practices in school psychology (at
+preservice, internship, and inservice levels) appear to contradict assertions
+regarding supervision’s importance. For example, descriptive studies have
+demonstrated (a) limited availability and perceived insufficiency of clinical supervision for practicing school psychologists (Chafouleas, Clonan, &
+Vanauken, 2002; Curtis, Castillo, & Gelley, 2012; Fischetti & Crespi, 1999);
+(b) a lack of supervision techniques other than case consultation (i.e., talking
+about cases) predominately applied by supervisors (Cochrane, Salyers, &
+Ding, 2010; Romans, Boswell, Carlozzi, & Ferguson, 1995; Ward, 2001);
+and (c) supervisors (both field and university) not having completed supervision coursework, ongoing professional development on supervision,
+or formal metasupervision (i.e., supervision of supervision; Cochrane et al.,
+2010; Ward, 2001). A number of factors may account for the gap between
+the purported value of supervision and what is actually practiced, including
+complexity in defining and researching supervision (Knoff, 1986; McIntosh &
+Phelps, 2000). Moreover, much of what we claim to know about supervision
+in school psychology is largely informed from research in other mental health
+fields such as Clinical Psychology, Psychotherapy, and Social Work (e.g., see
+Bernard & Goodyear, 2009).
+Consistent with the field of school psychology as a whole, the provision
+of supervision in school consultation is argued to be critical (Cramer &
+Rosenfield, 2003; Harvey & Struzziero, 2008; Newman, 2012b; Rosenfield,
+Levinsohn-Klyap, & Cramer, 2010), yet research and practice in this area
+remain deficient (e.g., see Anton-LaHart & Rosenfield, 2004). Nonetheless,
+a popular opinion that has permeated the consultation literature is that
+consultation skills are not learned on the fly; intensive, strategic, and developmentally focused training including supervision is argued to be essential
+in supporting the development of competent consultants (Rosenfield, 2012;
+Rosenfield et al., 2010; Ysseldyke, Burns, & Rosenfield, 2009). Some recent
+research studies have provided support for the importance of consultation training (e.g., Arra, 2010; Newell, 2010a, 2010b, 2012) and supervision
+(Newman, 2012a).202 D. S. Newman, A. J. Nebbergall, and D. Salmon
+In this article we present a structured peer group supervision (SPGS)
+model for novice consultants in training (CITs) and describe its application
+at nondoctoral and doctoral levels of consultation training. In so doing, our
+purposes are to (a) provide a structure that can be immediately applied by
+consultation trainers and CITs to augment the effectiveness of consultation
+training and (b) open a new potential avenue to extend upon consultation
+training and supervision research. To begin, we briefly define and describe
+supervision in school psychology including prevalent models, techniques,
+and formats. Specific attention is given to SPGS, including the delineation
+of an adapted model. Next, using specific examples from our incorporation
+of the model in consultation training, we describe how the model can be
+instructed and applied at nondoctoral and doctoral levels and in small and
+large groups. The article concludes with a discussion of the promise of an
+SPGS model in consultation training and considerations for future research
+regarding its effectiveness.
+SUPERVISION IN SCHOOL PSYCHOLOGY
+Broadly defined, supervision in school psychology is ‘‘an interpersonal interaction between two or more individuals for the purpose of sharing knowledge, assessing professional competencies, and providing objective feedback
+with the terminal goals of developing new competencies, facilitating effective
+delivery of psychological services, and maintaining professional competencies’’ (McIntosh & Phelps, 2000, pp. 33–34). Unlike related fields, school
+psychology is embedded within a complex educational context, which may
+require unique contextual considerations in supervision (Crespi & Dube,
+2005; Harvey & Pearrow, 2010; Harvey & Struzziero, 2008). Because the
+McIntosh and Phelps (2000) definition of supervision is broad, it may be
+considered inclusive of a variety of supervision models, techniques, and
+formats that may be applied by supervisors in support of trainees and practitioners.
+Models
+Harvey and Struzziero (2008) argued that ‘‘the structure of clinical supervision
+profoundly influences its potential to be effective’’ (p. 182). The structure of
+supervision is in large part informed by a supervisor’s theoretical orientation
+and choice of supervision model. In the general psychology supervision
+literature, there exist countless models of supervision such as (a) those
+rooted in psychotherapy (e.g., psychodynamic, person-centered, cognitivebehavioral), (b) developmental models (both stage-based and processdriven), and (c) social role models (Bernard & Goodyear, 2009). AlthoughStructured Peer Group Supervision 203
+a number of models have been discussed in school psychology supervision
+literature there is no evidence to suggest one model is superior to others
+(Kaufman, 2010).
+Techniques
+Supervision is also constructed via techniques (also called methods or interventions) applied by supervisors. The choice of techniques is informed
+by the supervisor’s orientation and model as well as supervision goals and
+supervisee developmental level (Bernard & Goodyear, 2009). Examples of
+techniques include case consultation, cofacilitation of activities, live observation, audio/videotaping, role playing, supervisor modeling/supervisee rehearsal, and written information (e.g., process notes, progress notes, and
+transcription). Even though a number of techniques may be relevant to apply,
+supervisors do not always select a wide range of strategies or implement the
+ones they view as most effective (Romans et al., 1995). For a further description of supervisory techniques, including advantages and disadvantages, the
+reader is referred to Harvey and Struzziero (2008).
+Formats
+Individual supervision. Individual supervision is the most commonly
+applied format, consisting of one supervisor working with one supervisee.
+This format is potentially the most time consuming to apply; however, it
+allows for differentiation of supervision to meet the unique needs of the
+supervisee and allows for close evaluation of progress toward supervision
+goals. An alternate way to provide individual supervision that may be more
+time efficient is in a small group during which the supervisor works with
+each supervisee individually in a round-robin fashion (Harvey & Struzziero,
+2008).
+Group supervision. Group supervision is the ongoing meeting of a group
+of supervisees with a supervisor or supervisors during which ‘‘supervisees are
+aided in achieving [their] goals by their supervisor(s) and by their feedback
+from and interactions with each other’’ (Bernard & Goodyear, 2009, p. 244).
+Supervision can be provided to the group as a whole regarding common
+issues or individually within the group setting (Harvey & Struzziero, 2008).
+Even though there exists a wide range of potential variability in the structure
+of group supervision (Mastoras & Andrews, 2011), Harvey and Struzziero
+(2008) offered some guiding principles. Group size should be limited to
+between four and eight participants and supervisee developmental levels
+and topics of interest should be relatively homogeneous. In addition, the
+authors suggest that having a group structure for presenting and discussing
+cases and supervisor provision of feedback can be helpful.204 D. S. Newman, A. J. Nebbergall, and D. Salmon
+Peer group supervision. Peer group supervision is a type of group supervision that is nonhierarchical; such groups are leaderless (Counselman &
+Weber, 2004), participants have comparable levels of experience, and supervision does not include a formal evaluation process (Bernard & Goodyear,
+2009). Zins and Murphy (1996) investigated what they called ‘‘peer support
+groups’’ in school psychology. Analogous to peer supervision groups, Zins
+and Murphy defined peer support groups as ‘‘a small group of professionals
+with a common area of interest who meet periodically to learn together, to
+share their expertise, and to support one another in their ongoing professional development’’ (p. 176). The authors conceptualized such groups as a
+form of embedded professional development for school psychologists and
+found that 64% of respondents (n D 399) reported prior or current participation in such a group. Perceived benefits of peer support groups included
+improved skills in providing specific psychological services, expanded range
+of services offered, increased enthusiasm for the job, increased use of accountability measures, increased involvement in professional organizations,
+and increased knowledge base in school psychology. Of their participants,
+93% expressed a moderate or higher level of interest in becoming part of a
+peer group.
+Clearly, peer support is perceived to be of benefit at the inservice level.
+This may be due in part to the fact that other types of supervisory support are
+not always available to school psychologists once they enter the field. For
+example, Zins and Murphy (1996) found that of their respondents, only 14%
+received individual clinical supervision. However, it seems that school psychology practitioners do not always access peer support. In the most recent
+NASP member survey, Curtis et al. (2012) found that only 56.2% of the fulltime school psychologist respondents received administrative supervision
+(i.e., focused on administrative issues vs. clinical skills), and only 28.5% reported systematic professional support, mentoring, and/or peer supervision.
+Perhaps a gap exists regarding how to best access peer support.
+Structured peer group supervision (SPGS). Some authors have suggested
+that group and peer group supervision may be most effective when implemented with a formal structure. For example, Borders (1991) described a
+systematic approach to group supervision that she applied over 6 years with
+90 counselors-in-training. Groups include three to six supervisees with a
+trained supervisor acting in the role of moderator and process observer.
+Although Borders described the model as ‘‘peer group supervision,’’ it does
+not seem to be leaderless and includes a supervisor who formatively assesses
+developmental levels of supervisees. Even though the Borders model is
+not necessarily a pure peer group model according to formal definitions,
+peers do take an active role in supporting one another, and preparation for
+supervision is seen to be critical in the supervision process.
+Steps described by Borders (1991) include (a) supervisees identifying
+questions/concerns about their videotaped counseling work and requestingStructured Peer Group Supervision 205
+feedback; (b) peer supervisors choosing or being assigned roles, perspectives, or tasks for when they review the presenter’s tape (e.g., observing
+communication skills or nonverbal behaviors, taking the perspective of the
+client, or other variations); (c) presentation of a video segment; (d) provision
+of feedback from peer supervisors through the lens of assigned roles or
+perspectives; (e) discussion facilitated by the supervisor; (f) summary by the
+supervisor; and (g) the supervisee indicating if his or her needs were met by
+the supervision. The Borders model has also been adapted to incorporate
+multicultural considerations, adding a group member role for observing/
+providing feedback on cultural issues at the second step and encouraging
+an increased multicultural focus from the supervisor throughout the process
+(Lassiter, Napolitano, Culbreth, & Ng, 2008).
+Wilbur, Roberts-Wilbur, Hart, and Morris (1994) described and piloted
+a structured model of group supervision over 7 years; 194 counselors-intraining at three different universities were assigned to the structured group
+supervision condition and 50 students to a control condition that included
+didactic instruction, an unstructured group process, and a case-conceptualization-skill acquisition focus; the structured model was not applied. The
+structure in the treatment group included (a) a request for assistance from
+one supervisee, (b) a questioning period from supervisees, (c) feedback
+statements from supervisees, (d) a pause period, (e) a supervisee response,
+and (f) optional discussion. Supervision groups ranged from 8 to 12 students in size. A pretest-posttest analysis demonstrated the structured group
+supervision condition was superior to the control condition as measured by
+a Counselor Skill and Personal Development Rating Form; in other words,
+the structured group was rated to be more effective than the control group in
+augmenting novice trainees’ counseling skills and personal growth. In short,
+the results of this pilot suggest that adding structure to a group supervision
+process is of potential benefit to participants.
+Adaptation of SPGS for Novice CITs
+We have adapted the structured group supervision models proposed by
+Borders (1991) and Wilbur et al. (1994) and applied them in the supervision
+of novice CITs. Although the Wilbur et al. model was piloted with groups
+of 8 to 12 and Harvey and Struzziero (2008) suggested groups of 4 to 8,
+we have found SPGS to be useful for both small-group (3 to 6 CITs) and
+large-group supervision (7 to as many as 16 CITs). Furthermore, although
+we have predominantly applied this model at the preservice level, two of
+the authors (Newman and Salmon) have begun to employ the model in
+ongoing professional development work on consultation at the inservice
+level. This application seems to fit with data from Zins and Murphy (1996)
+suggesting that school psychologist practitioners relish opportunities for peer
+support.206 D. S. Newman, A. J. Nebbergall, and D. Salmon
+The steps. Our adapted structure for SPGS is featured in the Appendix
+and is also featured as an appendix in the syllabi for the consultation courses
+we teach. Consistent with characteristics of effective peer groups as described
+by Counselman and Weber (2004), CITs are expected to develop a working
+group contract, work collaboratively through any problems that may arise,
+and stay on task during group discussions by following the format provided.
+Groups are also expected to determine a process for prioritizing whose turn
+it is to request help from the group; time is limited, and all group members
+will likely not get a chance to present/receive feedback during each SPGS
+session.
+The presenting CIT provides the group sufficient background information on his or her consultation casework and explicitly requests assistance
+on a specific problem. Audio/videotapes, transcripts, written summaries, or
+other data can be shared to help others understand the dilemma. As instructors, we have noticed that suggesting CITs bring data to supervision encourages preparation. Following the CIT’s request for assistance, group members
+paraphrase and clarify the information to make sure they understand the
+presenting problem. Not coincidentally, the emphasis during the ‘‘Seeking
+Clarification’’ stage is on the skills we want CITs to be practicing in their
+consultation work (e.g., active listening, distinguishing between clarifying
+and relevant questions, avoiding advice giving). Once clarifying questions
+are exhausted (i.e., the request for assistance is sufficiently clear), group
+members provide feedback regarding their perspectives on the case and
+what they would do if they were in the presenter’s shoes. It is important that
+at this point in the process the CIT remains silent in order to critically listen
+to feedback. Our students have reported that staying silent and listening at
+this stage is challenging because the natural tendency is to become defensive
+(e.g., ‘‘Yes, but : : : ’’) when others are offering perspectives on the situation.
+Hence, after feedback is provided, the group takes a short break to
+allow for the presenting CIT to reflect on what was suggested, and then the
+CIT is able to offer a response statement to the group. At this point, group
+members remain silent, and the presenting CIT can let others know what
+was helpful or not helpful (and why) and describe the next steps they will
+take in their consultation work. If the groups are part of a larger group (e.g.,
+Newman and Salmon’s current class has 16 CITs divided into four groups of
+4 CITs each), all groups may come together at the end to discuss pertinent
+issues.
+It should be noted that in addition to the in-class SPGS process, CITs
+are required to complete session logs for each consultation session held with
+their consultee(s). For these logs, students are required to listen to their taped
+session and to reflect on the consultation process, the consultant-consultee
+relationship, and their use of communication skills. These logs serve as a
+guide for critical thought on the consultation session as well as a source
+of evidence to present during the SPGS case presentation. The reader isStructured Peer Group Supervision 207
+referred to Burkhouse (2012) for a reflective log template that can be used
+in consultation training.
+Direct instruction of the SPGS. The process we have just presented is
+deceptively simple. In fact, several of the components may be considered
+contrary to natural tendencies of interaction. For example, individuals tend to
+offer advice before fully understanding concerns and tend to ask questions
+about what they are thinking (i.e., relevant questions) even if it is not directly
+related to the information someone has just shared. Therefore, we have found
+it useful to engage in an explicit ‘‘I do, we do, you do’’ process of instruction,
+modeling, and practice to teach CITs how to access supervision through an
+SPGS process. The timeline for teaching the process and its implementation
+are highlighted in Table 1.
+To teach the SPGS model, CITs first read through the steps of the
+process, and then we discuss it as a class, including the rationale for each
+stage (as described earlier in this article). Next, the process is modeled in
+front of the class. Because Newman and Salmon co-teach, one acts as a group
+TABLE 1 Proposed Timeline for Implementing SPGS of Consultation at the Preservice Level
+Level of consultation training
+Approximate
+week of
+consultation
+training
+Instructional
+stage Nondoctoral Doctoral
+6  CITs begin school–
+based consultation
+with a teacher
+ CITs begin school-based
+consultation with a teacher
+10 ‘‘I do’’  SPGS is overviewed
+ SPGS is modeled
+ SPGS is overviewed
+ SPGS is modeled
+11  SPGS is reviewed  SPGS is reviewed
+10 to 20 ‘‘We do’’  SPGS is implemented
+in full class setting
+(approximately 16
+CITs); individual CITs
+taking turns to present
+on cases
+ Instructor acts as
+moderator to make
+sure SPGS is followed
+ SPGS is implemented in a small
+group setting; CITs taking turns
+presenting on cases (all students
+have a turn each week)
+ Instructor acts as a model and
+moderator to make sure SPGS is
+followed
+12 or 13  CITs take turns as
+moderator to make
+sure SPGS is followed
+ CITs self-monitor to make sure
+SPGS is followed
+ Instructor acts as a peer
+participant in the group
+21 to 30 ‘‘You do’’  SPGS is implemented
+in small groups
+(approximately 4 CITs)
+ Instructor is freed to
+take on varying
+supervisory roles
+ SPGS continues to be
+implemented in a single small
+group
+ Instructor acts as a peer
+participant
+CIT D consultant in training; SPGS D structured peer group supervision.208 D. S. Newman, A. J. Nebbergall, and D. Salmon
+participant working with three volunteer CITs and the other acts as a ‘‘process
+narrator’’ helping the class, as well as the small group itself, understand
+and work through the stages sequentially and effectively. Following SPGS
+modeling, the instructors facilitate a class discussion to address lingering
+questions or concerns. The process is reviewed the following week prior to
+its application by CITs.
+SPGS at the nondoctoral level. Newman and Salmon co-teach a 30-week
+(three quarters or two semesters) three-course consultation sequence for
+second-year school psychology students, where students begin consulting
+with teachers in schools around Week 6 and take on two to three cases
+during the sequence. The SPGS is practiced as a full class (CITs sign up to
+present on their ongoing casework) between Weeks 10 and 20 and in small
+groups (approximately four CITs) during Weeks 21 through 30. Although
+the instructors in some ways facilitate the full class SPGS process to begin
+with (e.g., ‘‘Are there any additional clarifying questions?’’ or ‘‘Have we
+inadvertently jumped into the feedback stage?’’), a volunteer CIT takes the
+role of making sure the class is not deviating from the SPGS format after a few
+weeks. The same CIT also keeps track of time to make sure class participation
+is maximized but that those who are presenting that day receive sufficient
+feedback.
+We estimate that by the third quarter of our sequence (approximately
+Week 21), the CITs have begun to develop a sufficient knowledge of consultation content and process to begin to support one another in small groups,
+and we have provided sufficient practice in SPGS for the process to run
+smoothly. The groups are determined by the CITs based on the level of
+school they are working at, as concerns may have increased homogeneity.
+As CITs apply the SPGS independently in small groups, the instructors are
+freed up to take on different roles during this time (e.g., providing individual
+supervision to a CIT in need, acting as a ‘‘fly on the wall’’ in groups, or
+participating as a ‘‘peer’’ in groups while sticking to the SPGS format).
+SPGS at the doctoral level. Nebbergall recently applied the SPGS framework at the doctoral level in the second semester of a 30-week school
+consultation course sequence during which students engage in a schoolbased practicum and take on three consultation cases. The class consisted
+of three students in their second year. Historically, practica for this course
+were paired with individual supervision for each CIT. However, as noted
+earlier, the provision of individual supervision requires both extensive time
+and staff resources, which were not available for this semester. SPGS was
+piloted as an alternative.
+The small class size typical of a doctoral-level program led to select
+modifications to the SPGS process. First, the supervision framework was
+immediately modeled and practiced in a small group. Second, all students
+had the opportunity to receive supervision each week. The role of the
+instructor also varied from the larger group application. Given the smallStructured Peer Group Supervision 209
+number of students, the instructor was able to sit in as a ‘‘peer’’ in the
+group, initially acting as a model and moderator of the process and later as
+a peer group member in requesting clarification and providing feedback to
+the presenting CIT.
+Having participated in individual supervision as part of other classes,
+this group of CITs was uniquely poised to draw comparisons between their
+experiences with the SPGS model and the more traditional individual supervision model. CITs largely provided positive feedback, citing the advantages
+of vicarious learning from peers. CITs felt that they were able to reflect on
+and plan for their own cases based on feedback given by classmates during
+the SPGS process.
+When participating in the SPGS process, CITs did not have a supervisor
+reviewing their taped consultation session weekly. CITs reported feeling less
+anxiety during their consultation sessions as a result. They felt ‘‘more present’’
+in the consultation dyad rather than feeling distracted by fear of judgment or
+evaluation from a supervisor. On the other hand, although CITs felt that the
+session logs provided adequate opportunity and guidance for reflection on
+the consultant–consultee relationship and their use of communication skills,
+they acknowledged that an individual supervisor might have more strongly
+challenged them in these areas, especially if given access to tapes.
+Examples of SPGS in action. Newman and Salmon informally surveyed
+the CITs in their consultation class regarding (a) what requests for help
+were made in their supervision groups, (b) what specific clarifying questions or other communication interactions supported the supervision group’s
+understanding of the problem, and (c) what feedback was most useful in
+addressing requests for help.
+Examples of requests for help. Requests for help appear to cluster under
+categories of concerns that are commonly faced by novice CITs (Conoley,
+1981; Newman, 2012b) including problem-solving process variables (e.g.,
+difficulty with scheduling meetings; how to make an intervention a shared
+responsibility), problem-solving stages (e.g., where to go next in a case),
+communication skills (e.g., how well did the CIT use communication skills
+during the consultation case session?), CIT’s status as a student (e.g., is
+the consultee working with me because they need help or to help me
+complete an assignment?), relationships (e.g., how to deal with conflict in
+a consultation), and supervision (e.g., negotiating the roles of CIT and field
+supervisor in the consultation case). Note, this is not a comprehensive list
+of requests for help/CIT concerns but rather a few examples of issues that
+might be discussed in SPGS of school consultation; the reader is referred to
+Newman (2012b) for a consideration of other common concerns that might
+arise for CITs during supervision.
+Examples of clarifying questions. Following are a few examples of clarifying questions that CITs incorporated in their SPGS sessions at the second
+step of the process. Again, rather than attempting to list all questions asked210 D. S. Newman, A. J. Nebbergall, and D. Salmon
+during SPGS, this list is intended to illustrate how peer consultants might
+help seek clarification during SPGS.
+ How will you discuss the intervention with the consultee?
+ You said cultural factors might be playing a role in the identified problems.
+What cultural factors?
+ What does teacher instructional support look like?
+ What do you mean by ‘‘emotionally disturbed’’?
+ What were the consultee’s nonverbal behaviors?
+Examples of feedback. Finally, CITs provided us with examples of feedback that they found helpful in their SPGS work. CITs found it supportive
+when peers acknowledged that a case was difficult/validated their concerns
+or shared information regarding their own related experiences (e.g., ‘‘I used
+this intervention in the past and here’s how it worked.’’). Peers sometimes
+provided specific feedback regarding a presenter’s need to collect more
+information in a case, including completing a student record review or a
+classroom observation focused on instructional practices. Specific feedback
+was also provided regarding a number of process variables in presenters’
+consultation work such as how to discuss intervention implementation with
+a teacher/consultee, where to go next in the process when the CIT felt stuck,
+evaluation of communication skills after listening to a segment of a taped
+consultation session, and how the peer might address relationship difficulties
+if he or she were in the presenter’s shoes.
+Potential Pitfalls of an SPGS Approach
+The potential benefits of applying SPGS seem clear, but the process is not
+perfect. One challenge of SPGS includes navigating group dynamics; not every group functions fluidly from the start, and some group members are more
+motivated to participate actively than others. It is not clear whether it is more
+advantageous for instructors to assign groups based on perceptions of CIT
+skills and effort or to allow CITs to choose groups for themselves based on
+consultation case commonalities. Despite prospective challenges with group
+dynamics, we believe the structure in some ways encourages individual accountability (i.e., the CIT will have to present at some point in time and wants
+to provide useful feedback to his or her peers). Another possible pitfall for
+SPGS is that the process may be perceived or experienced as too contrived.
+This seems especially to be the case as CITs are first learning the SPGS process. The process does not necessarily allow for the flexibility or adaptability
+needed to deal with crisis situations; nor does it leave a great deal of space
+for socializing/developing rapport. Furthermore, CITs are unlikely to see a
+formal SPGS model in place at their practicum, internship, or future employment sites, so the process may seem aberrant from the realities of practice.Structured Peer Group Supervision 211
+The Promise of an SPGS Approach
+In spite of some challenges in its application, SPGS appears to hold potential
+as a format for supervision of consultation at the preservice level. We have
+found that the structure of the process requires participants to be prepared
+for and engaged in supervision. CITs reflect on their ongoing consultation
+cases each week and bring in specific concerns that are tied to materials
+(e.g., audio/video, data, or other) from their work. In addition, SPGS includes embedded opportunities for CITs to practice consultation skills such
+as engaging in active listening, asking clarifying questions, paraphrasing,
+and providing thoughtful feedback. We see these skills as applicable to their
+ongoing and future consultation work and also to their skills in providing
+peer support to school psychology colleagues in the future. Further, SPGS
+is built on foundations of vicarious learning. First, CITs are able to learn
+from each other’s consultation casework—gaining exposure to a variety of
+experiences they may not otherwise have accessed. Second, they can gain
+information from a number of peer supervisors, each who may have some
+divergent perspectives.
+Because most school psychology training programs do not include extensive supervision of consultation (Anton-LaHart & Rosenfield, 2004; Hazel,
+Laviolette, & Lineman, 2010), SPGS may be seen as an enhancement of
+current consultation training practices. Although some preliminary evidence
+suggests supervision can be of benefit to CITs (Newman, 2012a), there
+does not yet exist evidence regarding SPGS for school consultation training.
+However, as seen in our descriptions, the method seems to hold promise in
+supporting nondoctoral consultation courses with large numbers of students
+as well as small classes of doctoral students.
+SPGS also seems relevant to supporting inservice-level consultation skill
+development and practice and to support training and practice in other
+professional skill domains such as assessment, counseling, and supervision
+(e.g., SPGS can be used for metasupervision). In fact, because data suggest
+variability regarding the quantity and quality of supervision in the field,
+application of an SPGS model may help fill a needed gap. Moreover, when
+students are explicitly trained in an SPGS approach during their school
+psychology training, perhaps they will be more likely to apply this method,
+or aspects of the method, when supporting or receiving support from peers
+in the field.
+A Proposed Research Agenda
+The authors of this article feel SPGS holds promise as part of consultation
+training and also as a mode for providing supervision at the preservice
+and inservice levels for other domain areas. However, to date, our recommendations remain unsupported by empirical data. Research studies in212 D. S. Newman, A. J. Nebbergall, and D. Salmon
+the areas of supervision in school psychology in general, and supervision
+of consultation in particular, are few and far between. To the best of the
+authors’ knowledge, research on an SPGS model for supervision in school
+psychology is nonexistent, let alone on SPGS in school consultation training.
+Empirical evidence that an SPGS approach is beneficial for CITs could make a
+significant impact on how training programs approach consultation training.
+Although additional descriptive studies may provide a starting point for
+research (e.g., How many school psychology training programs currently
+incorporate group and/or peer group supervision in consultation training?
+How is it structured? What is the social validity of the process?), given the
+dearth of literature and research in this area, we may already know the
+answers to many of these questions. Therefore, it may be helpful to complete
+a study that includes random assignment of CITs to supervision conditions
+(e.g., SPGS alone, combination of SPGS and individual, individual alone) and
+includes evaluation on a number of domains (e.g., CIT competency development, acceptability, feasibility, integrity of implementation, and impact on
+consultees and clients [the gold standard of supervision research], to name
+a few). Further, it would be worthwhile to study how, if at all, involvement
+in an SPGS model at the preservice level affects peer supervision processes
+during the internship, early career, and beyond.
+Summary
+A contradiction exists between the proposed need for supervision in school
+psychology training and practice and the actions of university educators and
+field-based practitioners. In this article, we have proposed a structured peer
+group supervision (SPGS) model as one promising approach to bridge this
+gap. We have attempted to demonstrate the value of SPGS for nondoctoral
+and doctoral consultants in training (CITs), and we have suggested that SPGS
+also may be relevant at the inservice level in supporting consultation skill
+development in addition to other domains. Although the approach is not
+without challenges, our experiences and feedback from students suggest it
+is worth the effort. However, we also realize that anecdotal assertions are
+not sufficient in and of themselves to support our claims. We hope this
+article serves as a call for future research in the areas of supervision and
+consultation, research that can inform increasingly effective training practices
+in the field.
+REFERENCES
+Anton-LaHart, J., & Rosenfield, S. (2004). A survey of preservice consultation training
+in school psychology programs. Journal of Educational and Psychological
+Consultation, 15, 41–62.Structured Peer Group Supervision 213
+Arra, C. T. (2010). An examination of cross-cultural curriculum development and student cross-cultural competencies in a school-based consultation course. Journal
+of Educational and Psychological Consultation, 20, 169–183.
+Bernard, J. M., & Goodyear, R. K. (2009). Fundamentals of clinical supervision
+(4th ed.). Boston, MA: Pearson.
+Borders, L. D. (1991). A systematic approach to peer group supervision. Journal of
+Counseling and Development, 69, 248–252.
+Burkhouse, K. S. (2012). Educating a reflective school consultant: Multi-faceted techniques. In S. Rosenfield (Ed.), Becoming a school consultant: Lessons learned
+(pp. 25–47). New York, NY: Routledge.
+Chafouleas, S. M., Clonan, S. M., & Vanauken, T. L. (2002). A national survey of
+current supervision and evaluation practices of school psychologists. Psychology
+in the Schools, 39, 317–325.
+Cochrane, W. S., Salyers, K., & Ding, Y. (2010). An examination of the preparation, supervisor’s theoretical model, and university support for supervisors of
+school psychology interns. Trainers’ Forum: Journal of the Trainers of School
+Psychologists, 29(1), 6–23.
+Conoley, J. C. (1981). Emergent training issues in consultation. In J. C. Conoley (Ed.),
+Consultation in schools: Theory, research, and procedures (pp. 223–263). New
+York, NY: Academy Press.
+Counselman, E. F., & Weber, R. L. (2004). Organizing and maintaining peer supervision groups. International Journal of Group Psychotherapy, 54, 125–143.
+Cramer, K., & Rosenfield, S. (2003). Clinical supervision of consultation. The Clinical
+Supervisor, 22, 111–124.
+Crespi, T. D., & Dube, J. M. B. (2005). Clinical supervision in school psychology:
+Challenges, considerations, and ethical and legal issues for clinical supervisors.
+The Clinical Supervisor, 24, 115–135.
+Curtis, M. J., Castillo, J. M., & Gelley, C. (2012). School psychology 2010: Demographics, employment, and the context for professional practices. Part 1.
+Communiqué, 40(7), 1, 28–30.
+Fischetti, B. A., & Crespi, T. D. (1999). Clinical supervision for school psychologists:
+National practices, trends and future implications. School Psychology International, 20, 278–288.
+Harvey, V. S., & Pearrow, M. (2010). Identifying challenges in supervising school
+psychologists. Psychology in the Schools, 47, 567–581.
+Harvey, V. S., & Struzziero, J. (2008). Professional development and supervision of
+school psychologists: From intern to expert (2nd ed.). Bethesda, MD: Corwin
+Press and NASP Publications.
+Hazel, C. E., Laviolette, G. T., & Lineman, J. M. (2010). Training professional psychologists in school-based consultation: What the syllabi suggest. Training and
+Education in Professional Psychology, 4, 235–243.
+Kaufman, J. (2010). Contemporary issues in supervision. In J. Kaufman, T. L. Hughes,
+& C. A. Riccio (Eds.), Handbook of education, training, and supervision of
+school psychologists in school and community (Vol. 2, pp. 19–35). New York,
+NY: Routledge.
+Knoff, H. M. (1986). Supervision in school psychology: The forgotten or future path
+to effective services? School Psychology Review, 15, 529–545.214 D. S. Newman, A. J. Nebbergall, and D. Salmon
+Lassiter, P. S., Napolitano, L., Culbreth, J. R., & Ng, K. (2008). Developing multicultural competence using the structured peer group supervision model. Counselor
+Education and Supervision, 47, 164–178.
+Mastoras, S. M., & Andrews, J. J. W. (2011). The supervisee experience of group
+supervision: Implications for research and practice. Training and Education in
+Professional Psychology, 5, 102–111.
+McIntosh, D. E., & Phelps, L. (2000). Supervision in school psychology: Where will
+the future take us? Psychology in the Schools, 37, 33–38.
+National Association of School Psychologists. (2010). Professional standards. Bethesda,
+MD: Author.
+National Association of School Psychologists. (2011). Supervision in school psychology (Position Statement). Bethesda, MD: Author.
+Newell, M. (2010a). The implementation of problem-solving consultation: An analysis of problem conceptualization in a multiracial context. Journal of Educational
+and Psychological Consultation, 20, 83–105.
+Newell, M. (2010b). Exploring the use of computer simulation to evaluate the implementation of problem-solving consultation. Journal of Educational and Psychological Consultation, 20, 228–255.
+Newell, M. L. (2012). Transforming knowledge to skill: Evaluating the consultation
+competence of novice school-based consultants. Consulting Psychology Journal:
+Practice and Research, 64(2), 8–28.
+Newman, D. S. (2012a). A grounded theory study of supervision of preservice
+consultation training. Journal of Educational and Psychological Consultation,
+22, 247–279.
+Newman, D. (2012b). Supervision of school-based consultation training: Addressing
+the concerns of novice consultants. In S. Rosenfield (Ed.), Becoming a school
+consultant: Lessons learned (pp. 49–70). New York, NY: Routledge.
+Romans, J. S. C., Boswell, D. L., Carlozzi, A. F., & Ferguson, D. B. (1995). Training and
+supervision practices in clinical, counseling, and school psychology programs.
+Professional Psychology: Research and Practice, 26, 407–412.
+Rosenfield, S. (Ed.). (2012). Becoming a school consultant: Lessons learned. New
+York, NY: Routledge.
+Rosenfield, S., Levinsohn-Klyap, M., & Cramer, K. (2010). Educating consultants for
+practice in the schools. In E. Vasquez, T. D. Crespi, & C. Riccio (Eds.), Handbook
+of education, training, and supervision of school psychologists in school and
+community (Vol. 1, pp. 259–278). New York, NY: Routledge.
+Ward, S. B. (2001). Intern supervision in school psychology: Practice and process
+of field-based and university supervisors. School Psychology International, 22,
+269–284.
+Wilbur, M. P., Roberts-Wilbur, J., Hart, G. M., & Morris, J. R. (1994). Structured
+group supervision (SGS): A pilot study. Counselor Education and Supervision,
+33, 262–279.
+Ysseldyke, J., Burns, M. K., & Rosenfield, S. (2009). Blueprints on the future of
+training and practice in school psychology: What do they say about educational
+and psychological consultation? Journal of Educational and Psychological Consultation, 19, 177–196.
+Zins, J. E., & Murphy, J. J. (1996). Consultation with professional peers: A national
+survey of the practices of school psychologists. Journal of Educational and
+Psychological Consultation, 17, 175–184.Structured Peer Group Supervision 215
+APPENDIX
+STRUCTURED PEER GROUP SUPERVISION FORMAT
+In class, students will have the opportunity to engage in peer supervision
+regarding experiences during their consultation work. Consistent with characteristics of well-functioning peer supervision groups (e.g., see Counselman
+& Weber, 2004), you will be expected to (a) develop a working group
+contract, (b) stay on task during group discussions, (c) work collaboratively
+through problems, and (d) follow a format for group supervision as provided
+here. Any violations of the group contract should be discussed and addressed
+by the group.
+The following steps adapted from the work of Borders (1991) and
+Wilbur, Roberts-Wilbur, Hart, and Morris (1994) provide a format for group
+supervision:
+Step 1: Request for Help. The presenting consultant in training (CIT) states
+what assistance is being requested from the supervision group. Summary
+information may be presented using audio/videotapes, data from the case,
+written summaries, and/or verbal statements. Following the presentation of
+information, the CIT should state what he or she is requesting assistance
+with (e.g., ‘‘I need the group’s help to : : : ’’).
+Step 2: Seeking Clarification. The group members should paraphrase and
+clarify regarding the information presented in Step 1 to make sure they
+accurately understand the presenting concern(s). Peers should avoid asking relevant questions (e.g., those not stemming directly from information
+provided by the presenter). Questions should be asked one at a time in
+an orderly manner until there are no more questions (i.e., the request for
+assistance is clear).
+Step 3: Feedback. Group members respond to the information provided
+in Steps 1 and 2 by stating how they might handle their peer’s concern
+(e.g., ‘‘If I were working with that teacher, I might : : : ’’). The presenting CIT
+should remain silent but take notes regarding the comments or suggestions.
+Feedback should be provided one at a time in an orderly manner until there
+is no additional feedback.
+Pause/Break: A break of a few minutes between Steps 3 and 4 allows for
+the presenting CIT’s reflection on the group members’ feedback.
+Step 4: Response Statement. The group members remain silent and allow
+the presenting CIT to respond to each person’s feedback, one at a time. The
+presenting CIT may choose to state whether particular feedback was helpful
+or not and why it was helpful or not. The response statement concludes with
+the presenting CIT summarizing the next steps for the consultation work.
+Step 5: Discussion (optional). Time depending, issues discussed in small
+peer supervision groups may be discussed with the full class.216 D. S. Newman, A. J. Nebbergall, and D. Salmon
+Daniel S. Newman, PhD, is an Assistant Professor in the School Psychology Program at
+National Louis University in Illinois, having earned his doctoral degree in school psychology
+from the University of Maryland, College Park. His research interests include school consultation, consultation training, and supervision. He is chair of the National Association of School
+Psychologists Early Career Workgroup.
+Allison J. Nebbergall, PhD, is a school psychologist for the KIPP New Orleans Schools
+charter network, having earned her doctorate in school psychology from the University of
+Maryland, College Park. She specializes in school and community-based program evaluation.
+Diane Salmon, PhD, received her doctorate in educational psychology (with concentrations
+in school psychology and human development) from the University of Wisconsin-Madison in
+1989. She is a tenured faculty member at National Louis University in school and educational
+psychology and interim director for research in the College of Education. Dr. Salmon’s research
+focuses on relationships between social cognition, learning, and curriculum design.
+Note: The authors report that to the best of their knowledge neither they nor their affiliated
+institutions have financial or personal relationships or affiliations that could influence or bias
+the opinions, decisions, or work presented in this article

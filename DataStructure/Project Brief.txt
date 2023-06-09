@@ -1,0 +1,56 @@
+
+AI-Enhanced Knowledge Management
+ 
+01.  Organisation Description
+Surrey County Council (SCC) is a local government authority responsible for providing numerous public services including education, social care, highways, waste management, and environmental protection, and support, and resources to the residents of Surrey. The council is committed to enhancing the well-being of its residents and fostering a vibrant, sustainable community.
+02.  Project background
+ 
+The inception of this project was prompted by Surrey County Council's recent knowledge management sprint, an initiative aimed at identifying areas for improvement in the organisation's information management and communication systems. The sprint revealed several challenges, including inefficiencies in internal communication, document processing, and information retrieval. Furthermore, it highlighted the need for more streamlined customer service interactions and data-driven decision-making.
+The Information Technology and Digital (IT&D) team has recently deployed the Artificial Intelligence (AI) and Natural Language Understanding (NLU) chatbots for the organisation in several domains and is exploring AI bots to enhance its document processing and information extraction. This project aims to leverage large language models (GPT 3.x, GPT4.x, BERT etc) technologies to enhance its knowledge management capabilities and improve service delivery to the residents of Surrey.
+ 
+03. Synergy between Electech and AI
+ 
+The work carried out in this project is vital to the industry, as it contributes to a growing body of knowledge on the practical applications, benefits, and challenges of incorporating AI-driven knowledge management into various sectors. By demonstrating the successful application of AI into the knowledge management and within the public sector, our project can serve as a blueprint for other organisations in the Electech domain, encouraging the adoption of AI solutions to improve efficiency, customer service, and decision-making processes. Additionally,
+ 
+Enhanced Data Processing: Leveraging ML and Deep Learning NLP models, we aim to improve Surrey County Council's information management, automating document processing and streamlining data retrieval.
+ 
+Intelligent Customer Service: Utilising AI-driven NLP models, our project seeks to automate responses to public queries, providing an efficient and accurate customer service experience. This integration illustrates how AI can support the optimisation of communication processes within the Electech ecosystem.
+ 
+Data-driven Decision-making: The project aims to harness the power of AI to generate insights and analysis, supporting informed decision-making within the council. This aligns with the broader trend in the Electech industry, where AI is increasingly employed to improve decision-making processes and resource allocation.
+ 
+Ethical Considerations and Compliance: By examining the ethical implications, risks, and limitations of using large language models in a public sector context, our project underscores the importance of responsible AI implementation within the Electech industry.
+ 
+04. Project Objectives
+The primary goal of this project is to explore the potential of AI in enhancing knowledge management for Surrey County Council.
+ 
+Conduct user research to identify key challenges in document processing, information retrieval, tacit knowledge capture, and knowledge management within the organization.
+Develop a prototype of an AI-powered system that combines document classification, information extraction, and tacit knowledge capture to improve the efficiency of knowledge management processes.
+Assess the potential impact of the prototype on streamlining internal communication, facilitating access to tacit knowledge, and supporting data-driven decision-making.
+Understand the potential ethical implications, risks, and limitations of using AI in a public sector context and propose mitigation strategies to address these concerns.
+05. Deliverables
+User research, including interviews and surveys, to gather insights into the challenges faced by staff in document processing, information retrieval, tacit knowledge capture, and knowledge management. Identify areas where AI-powered solutions can provide the most significant benefits.
+Design and development of a prototype of an AI-powered system that addresses identified challenges, incorporating the insights from user research. The system can/should include the following features:
+Document classification: Automatically categorize documents into relevant categories based on their content, facilitating efficient information retrieval.
+Information extraction: Identify and extract key information from various document types, storing it in structured formats for easier access and analysis.
+Tacit knowledge capture: Analyse various communication channels, such as emails, teams and blog conversations and comments, to extract valuable insights and experiences shared by employees. These insights can be integrated into the organization's knowledge base to make tacit knowledge more accessible and usable.
+Integration: the AI-powered system with the organization's automation and document management infrastructure to ensure seamless compatibility and operation.
+User testing conducted with a small group of staff members, gathering feedback on the prototype's usability, effectiveness, and potential impact. Evaluate the system's ability to address challenges in document processing, information retrieval, and tacit knowledge capture, as well as its contribution to improved internal communication and decision-making.
+Ethical and Risk Analysis: An analysis of the ethical implications, risks, and limitations associated with the use of AI models in a public sector context, along with proposed mitigation strategies and best practices to ensure responsible implementation.
+Project report detailing the project's findings, user research insights, user feedback, and recommendations for future development and integration of the AI-powered Knowledge Management system. The report should include an analysis of the prototype's impact on the organization's knowledge management processes, potential areas for improvement, and suggestions for scaling the solution across the organization.
+06. Knowledge or expertise needed for this project
+·       Data Science, AI and machine learning, specifically in the area of NLP, NLU, deep learning, transformers, word embeddings, conversational AI and chatbot development.
+·       Strong problem-solving and analytical skills to identify and address the needs of informal carers.
+·       Ability to collaborate effectively in a multidisciplinary team.
+07. Why students should pick this project
+ 
+This project presents a unique opportunity for students to apply their knowledge and skills in a real-world context, addressing meaningful challenges faced by a public sector organisation. By choosing this project, students can expect to gain the following benefits and experiences:
+·   	Real-world Impact: The project has the potential to bring about positive change within Surrey County Council, leading to improved services for the residents of Surrey. Students will have the satisfaction of knowing that their work has made a tangible difference in the community.
+·   	Cutting-edge Technology: Students will have the opportunity to work with state-of-the-art AI technologies, such as ChatGPT and other large language models, gaining valuable hands-on experience and expanding their skillsets in a rapidly evolving field.
+·   	Multidisciplinary Learning: The project covers various aspects of AI implementation, from technical development to ethical considerations, providing students with a comprehensive understanding of the challenges and complexities involved in deploying AI solutions in the public sector.
+·   	Networking and Collaboration: Students will collaborate with Surrey County Council staff and potentially other stakeholders, expanding their professional network and gaining insights into the workings of a public sector organisation.
+·   	Portfolio Development: The project outcomes, including the proof-of-concept implementation and other deliverables, can serve as valuable additions to the students' portfolios, showcasing their skills and expertise to future employers.
+·   	Skill Enhancement: Students will have the opportunity to develop and refine a wide range of skills, including problem-solving, critical thinking, project management, teamwork, and communication, all of which are highly transferable and valuable in today's job market.
+·   	Industry Exposure: Working on this project will give students insights into the growing synergy between Electech and AI, allowing them to explore potential career paths and stay informed about emerging trends and opportunities in the field.
+ 
+In summary, by choosing this project, students will not only contribute to the betterment of a public sector organisation but also gain invaluable experience, knowledge, and skills that will enhance their professional development and future career prospects.
+ 

@@ -1,0 +1,153 @@
+1. Introduction
+The Surrey County Council’s AI-Enhanced Knowledge Management project is a groundbreaking initiative that seeks to harness the power of artificial intelligence (AI) to revolutionize knowledge management processes within the council. By developing a prototype AI-powered system, this project aims to enhance the efficiency and effectiveness of knowledge management through advanced techniques such as document classification, information extraction, and tacit knowledge capture.
+In today's rapidly evolving digital age, organizations face the challenge of efficiently managing and utilizing vast amounts of information and knowledge. The Surrey County Council recognizes the potential of AI technology to address these challenges and unlock new opportunities for optimizing knowledge management practices.
+The primary objective of this project is to explore and harness the potential of AI in knowledge management specifically tailored for the unique needs of Surrey County Council. With recent advancements in natural language processing and machine learning, AI has emerged as a transformative force capable of reshaping how knowledge is organized, accessed, and utilized.
+By leveraging AI technology, the council aims to streamline knowledge management processes, making them more efficient, accurate, and accessible to all stakeholders. The prototype AI-powered system being developed will play a crucial role in automating tasks such as document classification, ensuring that information is categorized and organized effectively for easy retrieval.
+Furthermore, the project focuses on information extraction, allowing the AI system to analyze and extract relevant data from various sources, such as documents, emails, and databases. This capability will significantly enhance the council's ability to identify and utilize pertinent information, facilitating better decision-making processes and more informed policy development.
+Additionally, the project aims to capture tacit knowledge, which refers to the implicit knowledge and expertise possessed by individuals within the council. AI algorithms will be employed to extract insights and expertise from employees' experiences, enabling the council to preserve and leverage valuable knowledge that might otherwise remain untapped.
+By embracing AI technology, the Surrey County Council is embracing innovation and staying at the forefront of knowledge management practices. This project represents a proactive approach to enhancing operational efficiency, fostering collaboration, and ultimately improving service delivery to the residents and stakeholders of Surrey.
+In summary, the Surrey County Council AI-Enhanced Knowledge Management project is an ambitious endeavour to leverage AI technology's potential in transforming knowledge management within the council. Through the development of a prototype AI-powered system, this project aims to optimize processes such as document classification, information extraction, and tacit knowledge capture. By doing so, the council seeks to unlock the full potential of its knowledge assets, empowering employees, enabling better decision-making, and ultimately delivering improved services to the community.
+2
+2. Problem Statement
+The problem statement in the AI-Enhanced Knowledge Management project for Surrey County Council is the inefficiency and limitations of traditional knowledge management processes. The council faces challenges in organizing, accessing, and utilizing knowledge effectively.
+The existing methods may not adequately capture tacit knowledge, hinder internal communication, and impede data-driven decision-making. The project aims to address these problems by leveraging AI to develop a prototype system that improves knowledge management processes, enhances internal communication, facilitates access to tacit knowledge, and supports data-driven decision-making.
+The objective is to overcome the limitations of traditional approaches and harness the power of AI to revolutionize knowledge management within the council.
+3. Objectives
+The primary goal of this project is to explore the potential of AI in enhancing knowledge management for Surrey County Council.
+1. Develop a prototype of an AI-powered system that combines document classification, information extraction, and tacit knowledge capture to improve the efficiency of knowledge management processes.
+2. Assess the potential impact of the prototype on streamlining internal communication, facilitating access to tacit knowledge, and supporting data-driven decision-making.
+3. Understand the potential ethical implications, risks, and limitations of using AI in a public sector context and propose mitigation strategies to address these concerns.
+3
+4. Technical Consideration
+In the AI-Enhanced Knowledge Management project, several technical considerations should be considered to ensure the successful implementation and operation of the system. Some of the key technical considerations are:
+4.1 Infrastructure and Computing Resources:
+Adequate computing resources and infrastructure are essential to support the AI-powered knowledge management system. This includes having sufficient computational power, memory, storage capacity, and network bandwidth to handle the processing and storage requirements of the system. Cloud-based solutions or dedicated on-premises servers may be required to meet these needs.
+4.2 Data Collection and Preparation:
+The project must address the collection and preparation of the data used for training and fine-tuning the AI models. This involves identifying relevant data sources, extracting, and cleaning the data, and organizing it into a suitable format for model training and inference. Data privacy and security considerations must also be considered to protect sensitive information.
+4.3 Model Selection and Fine-tuning:
+The choice of the AI model(s) to be used in the knowledge management system is critical. It involves assessing different models, understanding their capabilities, and selecting the most suitable one(s) based on the project's requirements. Fine-tuning the selected model(s) on domain-specific data can enhance their performance and align them with the specific needs of the Surrey County Council.
+4.4 Integration and Deployment:
+The integration of the AI model(s) into the knowledge management system requires careful consideration. This includes designing and implementing the necessary software components, APIs, and user interfaces to interact with the AI models effectively. Deployment considerations involve selecting the appropriate hosting environment, such as cloud platforms or on-premises servers, and ensuring system scalability and reliability.
+4.5 Performance and Optimization:
+Continuous monitoring and optimization of the AI models and the overall system performance are crucial. This includes tracking metrics, such as response time, accuracy, and user satisfaction, and implementing techniques like caching, parallel processing, and load balancing to optimize system performance and responsiveness.
+4.6 Maintenance and Updates:
+The knowledge management system requires ongoing maintenance and updates to address bugs, security vulnerabilities, and evolving user requirements. Regular monitoring, patching, and version control of the AI models and underlying software components are necessary to keep the system running smoothly and effectively. Additionally, the model’s data must be kept live with up-to-date information.
+By considering these technical aspects throughout the project lifecycle, Surrey County Council can build a robust, efficient, and ethically sound AI-enhanced knowledge management system that meets its objectives and effectively supports its internal processes and decision-making.
+4
+5. Dataset Creation
+Data plays a vital role in creating any AI systems. To cater to the needs of the projects, we are creating a synthetic dataset based on the knowledge from various document sources. We are leveraging a dedicated AI model named BART [1] to generate relevant questions for a set of text as in a real-world scenario. BART stands for Bidirectional and Auto-Regressive Transformer is a sequence-to-sequence model that is pretrained on large amounts of text data and can be fine-tuned for various natural language processing tasks, including text generation, summarization, and question answering. BART incorporates both encoder-decoder architecture and autoregressive training objectives, making it well-suited for generating high-quality text outputs. The specific variant of BART used in this project is “voidful/Bart-eqg-question-generator” from Hugging Face1, which is pretrained on EQG-RACE corpus for question generation tasks.
+The script for creating the dataset can be found at “dataset_generation.ipynb”. The python notebook will perform the following steps.
+1. Read all the documents from “docs” directory.
+2. Create chunks for manageability.
+3. Feed the chunks into the BART model to generate a question.
+4. Store the questions and respective chunk as answer in a CSV file “qa_pairs.csv”.
+The generated dataset in csv format can be further utilized for evaluation and finetuning purposes.
+1 https://huggingface.co/voidful/bart-eqg-question-generator
+5
+6. Architecture
+To address the problem, we have researched various plausible solutions. Initially, we explored and compared different text generation models which are discussed in detail as follows.
+6.1 BERT (Bidirectional Encoder Representations from Transformers)
+BERT [2] is a powerful language model architecture developed by Google. It focuses on language understanding tasks by leveraging the Transformer model. BERT is pre-trained on large amounts of unlabelled text data, learning to predict missing words in sentences (masked language model) and understand sentence relationships (next sentence prediction). This pre-training enables BERT to capture contextual information and perform well in tasks such as text classification, named entity recognition, and question answering. It has been widely used in natural language processing applications, providing state-of-the-art performance on various benchmarks. In BERT, the input tokens are limited to 512 sub-word tokens, making it ineffective for this project as knowledge management task requires to have a large context length.
+6.2 RWKV (Receptance Weighted Key Value)
+RWKV [3] is a novel model architecture proposed as a synergy of Transformers and Recurrent Neural Networks (RNNs) for natural language processing (NLP) tasks. It addresses the memory and computational complexity challenges of Transformers and the performance limitations of RNNs. RWKV combines the efficient parallelizable training capabilities of Transformers with the efficient inference of RNNs. The key feature of RWKV is its use of a linear attention mechanism, allowing it to be formulated as either a Transformer or an RNN. This formulation enables parallelization of computations during training and maintains constant computational and memory complexity during inference. RWKV has been successfully scaled to tens of billions of parameters. Experiments conducted on RWKV demonstrate its comparable performance to similarly sized Transformers, indicating its potential for creating more efficient models. The main advantage of RWKV over BERT and GPT is that it theoretically doesn’t have any token limitations, however the time complexity is directly proportional to token limit. Thus, selecting an optimal token limit is crucial in case of RWKV.
+6.3 GPT (Generative Pre-trained Transformer)
+GPT [4] is a language model architecture developed by OpenAI. It is designed for language generation tasks, focusing on producing coherent and contextually relevant text. GPT utilizes the Transformer model, which employs self-attention mechanisms to capture long-range dependencies and understand contextual relationships in language. It is pre-trained on vast amounts of textual data, enabling it to develop a deep understanding of language. GPT has been widely used for tasks such as text completion, document summarization, and dialogue generation. It excels in generating high-quality text output and is known for its creative and coherent language generation capabilities. It powers various applications including ChatGPT. The token limit of GPT 3.5 model is at 4096 tokens, which is comparatively higher than BERT and optimal to grasp the context of the documents. The main advantage of using GPT based models is the ecosystem that OpenAI has to offer. OpenAI is one of the leading AI companies, thus tech gains are more adapted to facilitate the ecosystem like Microsoft Azure’s Open AI Studio, which provides a comprehensive set of utilities to fine-tune a GPT model based on the industry needs.
+Initially, we experimented with both GPT 3.5 and the RWKV model to address the GPT token limit issue. While the RWKV model offered an unlimited token limit, we found that its effectiveness was not
+6
+comparable to GPT 3.5. As a result, we focused on fine-tuning the dataset preparation process to
+optimize the performance of GPT 3.5. Due to practicality of the available infrastructure and resources,
+we have resorted to implementing prompt engineering techniques based on the OpenAI’s GPT 3.5
+Turbo model.
+
+The idea is to provide some level of information to the text generation model as context so that the
+model can provide more relevant responses based on the provided context. Figure 1 depicts a detailed
+overview of the architecture that we have implemented in this project.
+The following steps will take through the tasks performed by our created pipeline.
+1. Read all the documents from “docs”.
+Supported document formats2 include but not limited to pdf, txt, csv, ppt, docx, etc.
+This can be further extended to accommodate dynamic document in a cloud storage bucket.
+2. Create chunks from the documents.
+The chunk limit configure is 1024, can be modified as per the requirement of the model.
+3. Generate embeddings for the chunks.
+OpenAI Embeddings are leveraged to create embedding vector for each chunk.
+4. Store embeddings in a vector store.
+A vector store powered by Facebook AI Similarity Search [5] is used for storing and indexing of
+the embeddings.
+5. Initialize OpenAI model with API keys and created vector store.
+Note: API Key from OpenAI must be stored in an environment variable, “OPENAI_API_KEY”.
+6. Query the model with text.
+Upon user query, the most relevant chunks from FAISS vector store are retrieved and provided
+to the GPT model for text generation response.
+2 https://pypi.org/project/unstructured/#:~:text=about%20the%20library.-,Document%20Type,-
+Partition%20Function
+
+7
+The prototype of the implemented model is available for interaction from https://itek-scc-knowledge-oracle.azurewebsites.net.
+In addition to the above prototype, we have created a script that evaluates the relevancy of the generated responses from the GPT model. The script can be located in “dataset_generation.ipynb” python notebook. The below steps give a brief overview on the evaluation process.
+From the dataset created using BART Question Generation model,
+1. Provide the question from the dataset to the created prototype.
+2. Generate embeddings for the actual answer and the generated response.
+3. Using FAISS calculate the relevancy score (0 to 1) between the embeddings.
+4. Repeat the above steps for all the records of the dataset.
+5. Append the response and relevancy score to the csv file and save as “evaluation.csv”.
+6. Compute the average relevancy score (0.79 %).
+The average relevancy score for the dataset that we created for this prototype was 0.79%. Which signifies that the responses from the prototype model is more relevant to the ground truth fact.
+8
+7. Ethical Consideration
+Ethical considerations entail thoughtful examination of the potential effects and outcomes of actions, evaluating the fairness and equity of decisions, and acknowledging and upholding the rights and welfare of individuals or those impacted. These considerations frequently involve balancing competing interests, values, and responsibilities to determine an ethically appropriate and approvable course of actions.
+There are several ethical implications to consider while developing, deploying, and using artificial intelligence technologies. European Commission's Ethics Guidelines for Trustworthy AI, the IEEE Global Initiative on Ethics of Autonomous and Intelligent Systems, and the Future of Life Institute's Asilomar AI Principles. These guidelines aim to address fairness and bias, explainability and transparency, responsibility and accountability, and human societal well-being in AI systems such as psychological impact and data privacy.
+7.1. Data Privacy and Security
+In compliance with General Data Protection Regulation (GDPR) which is a legal requirement in England, the AI system respects the principles of data minimization, purpose limitation, and storage limitation.
+7.2. Bias and Fairness
+The model output may exhibit bias based on the data used for training the model and may lead to misleading and inappropriate false unfair information. It is vital to draft the training data to be representative, unbiased, and diverse. More attention should be paid to underrepresented groups to avoid bias in model predictions.
+7.3. Explainability and Transparency
+Explainability is the ability of the AI model to provide understandable and transparent explanations for its decisions or outputs. It involves making the internal processes and the rationale behind the model's outputs comprehensible and interpretable to human users as the models are black boxes due to its intricate internal mechanisms. Explainability and transparency involves explaining how and why the particular response is generated. In line with this, it's also crucial to ensure public participation in decision-making processes around the deployment and use of AI technologies. This open approach not only provides a degree of transparency but also helps increase public trust in these systems.
+7.4. Responsibility and accountability
+Responsibility and accountability encompass acknowledging the ethical implications and potential outcomes associated with AI technology, and assuming ownership of the actions and decisions executed by AI systems.
+7.5. Ethical Solutions and Future Recommendations
+These ethical implications could be addressed by certain techniques,
+7.5.1. Escalation to Support Team
+This bias mitigation could be addressed by encouraging the model to explicitly mention that there is lack of information for the specific prompts. It's also important to have a human in the loop in cases where decisions have a high impact on individuals' lives. When there are prompts related to sensitive information, it should be escalated to the human support team for further assistance.
+9
+7.5.2. Rule-based interventions and post pre-processing
+Integrate techniques like rule-based interventions, which are formulating rules or constraints on the output to ensure fair responses. Post-processing techniques can be utilized to modify the model's output in a way that aligns with specific fairness criteria or enforces fairness rules. These techniques allow for adjustments to be made to the model's responses to ensure a more equitable and unbiased outcome.
+7.5.3. Attention visualization.
+Attention visualization enables us to comprehend the specific areas of the input that the model prioritizes when generating its output. In models employing attention mechanisms like the Transformer architecture, the model assigns attention weights to individual tokens in the input sequence. By visualizing these attention weights, we can uncover the connections and dependencies between input and output tokens. This visualization provides insights into the focal points of the model's attention and aids in identifying any biases or irregularities that may be present in its attention patterns.
+7.5.4. Explanation generation
+Augment the model's responses with accompanying explanations or justifications can involve guiding the model to explicitly provide reasoning, sources, or evidence that supports its generated responses. By this, users gain insight into the underlying thought process employed by the model to arrive at its answers.
+7.5.5. Introspection
+To gain a deeper understanding of the model's decision-making process, its internal representations and intermediate outputs could be analysed, which is called introspection. This analysis may involve investigating hidden states, activations, or attention weights to reveal how the model interprets and processes information.
+7.5.6. Risk assessments
+Thorough risk assessments could be conducted to identify the potential biases and unfair response predictions to address. Regular external audits could be conducted to assess the fairness, robustness, and compliance of our model’s predictions and responses.
+7.5.7. Adversarial debiasing
+Adversarial debiasing could be integrated which involves training an auxiliary adversarial network alongside the primary model. The adversarial network's purpose is to recognize and mitigate input features that lead to biased outputs. Through training the main model to counteract the adversarial network's efforts to introduce biases, the model can acquire the ability to produce more equitable and unbiased responses.
+7.5.8. Fine-tuning
+Once the initial pretrained model is trained, it can undergo further fine-tuning using task-specific data and explicit instructions to mitigate biases. This process entails offering precise feedback and
+examples to the model that highlight and address any biased behaviours. By doing so, the model is encouraged to learn fairer patterns during the fine-tuning phase.
+10
+7.5.9. Interactive learning
+Interactive learning could be used to refine the content based on user feedback and to enhance its responses over time. Reinforcement learning could be integrated with the model which helps to optimize the responses through interaction and experience from the environment.
+7.5.10. External Audits
+Regular external audits could be conducted to assess the fairness, robustness, and compliance of our model’s predictions and responses. It may also be worth considering an external algorithmic audit to ensure that the AI system doesn't reproduce societal biases. AI models must be continuously monitored for any potential bias and unfair outcomes even after deployment. A regular updating mechanism should be in place to incorporate lessons learned from the post-deployment phase and real-world experiences.
+7.5.11. Continuous Evaluation
+Remaining updated on evolving legal and ethical guidelines, including those outlined by the European Commission, and consistently evaluating and adapting AI systems to address emerging challenges are essential. Adherence to these measures and maintaining vigilance, the potential of AI technology could be harnessed, while upholding ethical standards and ensuring a positive societal impact.
+Finally, while deploying AI, it is important to consider its socio-economic impact, especially on employment. These aspects should be evaluated, and necessary measures taken to mitigate any negative impact.
+Adherence to these measures and maintaining vigilance are essential to harness the potential of AI technology while upholding ethical standards and ensuring a positive societal impact.
+11
+8. Future Recommendation
+Based on the implementation and findings described above, below are some future directions and recommendations for the AI-enhanced knowledge management project:
+1. Dataset Creation: We can leverage the Council’s Chatbot data for pretraining the BART based question generation model, enhancing the system's effectiveness. By incorporating domain-specific knowledge, the model can generate more accurate and contextually relevant questions, leading to a robust dataset.
+2. Fine Tuning: To cater to a specific response flavour, the model can be fine tunned on specific type of tasks. Azure Open AI studio provides the required unitalities for model fine tuning. The dataset for fine tuning can even be generated from the scripts from this project.
+3. User Feedback and Iterative Improvements on Dataset: Gather feedback from users, knowledge management experts, and council employees who interact with the system. Collect insights on the generated question’s quality, relevance, and usefulness. Incorporate this feedback into iterative improvements of the question generation model to enhance its performance and address any limitations or shortcomings.
+4. Ethical Considerations: Continuously monitor and address ethical considerations, including data privacy including but not limited to PII (Personally Identifiable Information), fairness, transparency, accountability and biases related to gender, ethnicity, or other sensitive attributes. Stay updated with evolving ethical guidelines and regulations to ensure compliance and responsible use of AI technologies in the public sector. Implement additional measures to address potential ethical issues in the whole pipeline. Filter inappropriate queries on input to the model.
+5. Explainability and Transparency: Develop mechanisms to provide explanations for the generated texts. Explore methods such as generating rationales or highlighting key phrases in the source text that influenced the question generation process. This will help users understand the reasoning behind the generated questions and build trust in the system.
+6. Integration with Knowledge Management Systems: Integrate the AI-powered system with existing knowledge management systems used by Surrey County Council. This will facilitate seamless integration of the pipeline into the knowledge management workflow and enhance the efficiency and effectiveness of information retrieval and sharing processes.
+7. Collaboration and Knowledge Sharing: Foster collaboration and knowledge sharing among different departments and teams within the council. Promote the use of the AI-enhanced knowledge management system as a tool for capturing and disseminating tacit knowledge. Encourage employees to contribute to the system by providing feedback, suggesting improvements, and sharing their expertise.
+8. CI/CD Pipeline: A continuous integration and deployment pipeline can be implemented to promote the end-to-end process of finetuning and deployment of the model, triggered on dataset change. This enables a seamless development and deployment the AI system on data updates.
+By implementing these future recommendations, Surrey County Council can further enhance their AI-enhanced knowledge management system, improve the quality of generated questions, and streamline their internal knowledge sharing and decision-making processes.
+12
+9. Conclusion
+In conclusion, the Surrey County Council AI-Enhanced Knowledge Management project embarked on a transformative journey to revolutionize knowledge management within the council. After careful consideration and analysis of different architectural choices, GPT (Generative Pre-trained Transformer) emerged as the preferred AI framework over BERT and RWKV. The selection of GPT was justified based on its remarkable language generation capability, extensive pre-training on large corpora, contextual understanding, transfer learning ability, and the support and resources provided by the OpenAI ecosystem. These architectural advantages of GPT align closely with the project's objectives of improving knowledge management processes, enhancing efficiency, and leveraging the power of AI technology.
+By harnessing GPT's language generation capabilities, the Surrey County Council aims to transform the way knowledge is organized, accessed, and utilized within the council. GPT's ability to generate coherent and contextually relevant text enables tasks such as document summarization, knowledge base generation, and answering natural language queries, thereby facilitating efficient knowledge management processes. Moreover, GPT's transfer learning capability allows it to adapt and fine-tune on specific downstream tasks with relatively limited data, providing flexibility and adaptability to the evolving needs of the Surrey County Council. The continuous support and resources offered by the OpenAI ecosystem ensure access to state-of-the-art language models and ongoing advancements in AI technology, bolstering the project's long-term prospects and growth.
+As the project progresses, it is expected that the integration of AI systems into the council's knowledge management practices will yield substantial benefits, enhancing collaboration, decision-making, and ultimately contributing to the council's overall success. By embracing AI technology and leveraging its strengths, the Surrey County Council is poised to set new benchmarks in knowledge management, paving the way for a future where information is effectively harnessed and utilized for the betterment of the council and its stakeholders. The created prototype will serve as an initial step in unlocking the full potential of the council's knowledge assets.
+

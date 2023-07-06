@@ -1,0 +1,152 @@
+Data Ethics
+A proposed approach for ABC Council
+DRAFT FOR WORKING GROUP COMMENTS
+ 
+Purpose
+This document sets out a proposed approach to data ethics within ABC Council (ABC) and includes:
+SECTION 1 – A proposed framework
+-          The key steps data projects (including AI projects) should take to ensure responsible and appropriate data use;
+-          The ethical principles that should be introduced;
+-          The application of the ethical principles. This includes a proposed data ethics tool [DN- tool itself to be drafted], the establishment of ethics working groups and ongoing review;
+SECTION 2 – A proposed implementation approach
+-          Where Data Ethics will be led from
+-          How the framework should be tested
+The proposals [is/will] being shared widely for comment within ABC, including with attendees of the data ethics workshops in September 2022. [It is also being critically reviewed by xxx [external] – exploring this currently].  It will then be revised in line with the feedback received and submitted to the ABC Data Board for approval and to agree next steps.
+Context
+The Data Strategy identified that work should be taken forward to establish a framework for data ethics processes and practices within ABC.
+A workshop was held with over 70 ABC Council staff in September 2022 which confirmed an interest in ethics and an appetite for greater clarity about how it should be approached. 
+Desk research and discussions with stakeholders have been ongoing. This included the Caldicott Guardians, IG leads, Head of Research, LOTI Data ethicist, SABP Data ethicist, Surrey University, and the ABC Data Collaboration Council.
+A literature review on public attitudes to use of data has also been completed Data Hub - Attitudes to Public Sector Use of Data.pdf - All Documents (sharepoint.com)
+The ABC Data Board agreed in January 2023 that work to develop a framework and process for Data Ethics should be taken forward. A working group has therefore been established including Information Governance leads and wider interested parties in ABC.
+Since May 2023 this work has also been aligned to work underway to consider how we approach AI governance within ABC.  
+ 
+
+SECTION 1 – A proposed data ethics framework
+·       What is data ethics?
+Data ethics can be defined as 'A branch of ethics that evaluates data practices with the potential to adversely impact on people, society and the environment – in data collection, sharing and use’. (ODI).
+Data ethics has a wider remit than what is legal (e.g. GDPR, Equalities Act) and considers what it is appropriate and responsible data use.
+·       Why do we need a data ethics framework?
+Data ethics is a rapidly emerging area and one in which ABC staff have identified they would value further guidance. A failure to handle data ethically risks harm to people and can lead to a loss of trust in projects, products or organisations.  As a local authority we are here to deliver for our County but we must be alive to the tension – between protecting people and data about them, and using that data to create societal benefits – that is present in our sector.
+Ethical treatment of data can be a difficult subject. Staff at all levels in ABC need appropriate processes, guidance and support to help them make the best choices and apply data ethics consistently.
+This data ethics framework therefore seeks to define principles that align with the ethos and culture of ABC as an organisation; and to set out practical ways to implement those principles and embed ethical practice for staff. This is version one of the framework and it is fully acknowledged that we will learn and further develop our approach over time.
+ 
+·       What projects/work does the framework apply to?
+The framework is aimed at anyone in ABC working directly or indirectly with data, including data practitioners (statisticians, analysts and data scientists), policymakers, operational staff and those helping produce data-informed insight.
+ 
+It is envisaged that this framework, and the data ethics tool designed to support its implementation, would sit within a suite of activities used from initiation to the close of projects which particularly involve collecting and storing new data, processing data in new ways, and/or using existing data for new purposes.
+ 
+This framework also applies to AI projects. This is because data is central to AI; AI is only as good as the data you have available to expose to algorithms, which is why data is often called the “new oil”. It is therefore crucial that AI projects are considered through an ethical lens. [Add in refs to potential projects].
+[ABC examples of data projects/AI from -add here]
+·       How does it fit with existing structures and approaches in ABC?
+Within ABC we already have processes, policies and templates to address issues that fall within the sphere of data ethics, for example data privacy and data security. Rather than create an additional and separate data ethics process the framework is designed to align with those existing processes, extending them where wider ethical considerations need to particularly be considered.  
+In particular these activities are intended to build on and from the DPIA process, with additional elements to be undertaken where particular considerations – such as the ethical dimension, or aspects relating to novel AI approaches – are identified as especially relevant to the project in question.
+ 
+The key steps data projects in ABC need to take to ensure they are acting ethically is below.
+1- Define the public benefit and user need
+ 
+You will need a clear articulation of the purpose of the project.  This includes having clarity on what public benefit the project is trying to achieve and what are the needs of the people who will be using the service or will be most directly affected by it.
+ 
+2- Comply with the law
+ 
+You must comply with the relevant laws and codes of practice that relate to the use of data. When in doubt, you must consult relevant ABC experts. To include:
+•       Data Protection GDPR and DPA 2018
+•       Common Law duty of confidentiality
+•       Compliance with the Equality Act 2010
+ 
+3- Ensure data security
+ 
+You must ensure the data is kept securely and only for the appropriate time period.
+ 
+4- Apply data ethics
+ 
+You must consider the work against the ABC ethical principles (see below for principles and attached [to be drafted data ethics tool], ensuring that you do so in a way that involves diverse expertise. To include:
+•       Reviewing the quality and limitations of the data (e.g. proportionality, risk of bias, anonymisation)
+•       Planning and implementing how you make the work transparent to service users/residents
+•       Ensuring ongoing review, establishing an ethics working group where appropriate
+ 
+ 
+·       What are our ethical principles?
+ABC’s overarching principles are applicable throughout a piece of data work or project, including use of AI:
+Fairness
+We always seek to eliminate any project or data activity’s potential to have unintended discriminatory effects on individuals and social groups. We aim to mitigate biases which may influence any model’s outcome and ensure that the project or data activities respect the dignity of individuals, are just, non-discriminatory, and consistent with the public interest, including human rights and democratic values.
+Transparency
+We ensure our actions, processes and data are transparent and made open to inspection by publishing information about our data projects and any complex data process in an open, understandable, easily-accessible, and free format. In our work  on data and AI we use the available guidance Explaining decisions made with AI | ICO, Artificial intelligence in public services | Equality and Human Rights Commission (equalityhumanrights.com) to ensure transparency throughout the entirety of our process.
+Accountability
+We hold ourselves accountable and always appropriately apply ethical considerations. We (ABC) are responsible for the decisions made by our officers or algorithms or AIs.  We apply appropriate checks and controls to ensure that ethical considerations meaningfully affect decisions within our data projects and our projects can be suspended, prevented from happening or terminated due to ethical considerations. Members of the public or end users of a project or data activity have the ability to raise concerns and make complaints and these complaints will be considered and responded to.
+ 
+ 
+·       What processes do/will we follow to comply with our data ethics principles?
+ 
+Identification
+We need to ensure data projects that need to apply a data ethics lens are identified. This will in part be done through communication of the ethics framework itself.  However to ensure that it is embedded within our BAU ways of working it will be highlighted in three existing processes/approaches within the Council:
+·       DPIAs - we intend to add a small number of questions to the DPIA to ensure ethical issues are considered and where risks emerge that they are required to consider these further through the use of the Data Ethics Tool
+·       Equality Impact Assessments – we will add to the guidance notes to highlight the need, where appropriate, to consider data ethics and use the Data Ethics Tool
+·       Project Documentation – we will add to key product templates and guidance within the ABC PPM Academy the need to consider data ethics with links to this framework and the Data Ethics Tool
+ 
+Consideration
+The Data Ethics Tool will set out key questions that should be considered by teams where ethical risks emerge (even where those risks are small). It draws from the Governments Data Ethics Framework and wider sources (see annex for references). It will enable  those engaged in data projects and activities with an ethical dimension to gather feedback from those with relevant expertise and understand in more detail how those ethical considerations can be handled.
+It is important to note that the tool should not be considered in isolation by one team member. It is an activity that requires diverse input through a workshop or series of meetings.
+Where material risks are identified through the Data Ethics Tool it is proposed that an ethics working group is established for the project. This group should include:
+-          Project team representation, including the data specialist
+-          Data Ethics representation, from the new data ethics role or in advance from a nominated individual
+-          The relevant Caldicott Guardian, where Adults or Childrens data is involved
+-          IG representation
+Decision
+We need to ensure that projects with material ethical risks are signed off at appropriate levels of the organisation as ethically acceptable,  and can halt them as ethical considerations have not been adequately addressed, or require modifications in order to make them compliant with the ethics approach. We are proposing that the completion of the Data Ethics Tool and the outputs of any working group considerations would be the inputs to those decisions.
+Review
+It is important that projects who have completed the Data Ethics Tool do not see that as a single activity. They must ensure that the agreed ethics approach is being followed as key points in the project are being reached and review of new or emerging risks is undertaken.
+Close
+It is important that the data ethics dimensions are considered as projects close and if projects are moving into BAU that any ongoing actions are transferred with the project., alongside identifying learning from them which may inform ethics considerations in future work.
+This process is summarised in the visual below:
+ 
+ 
+Consultation questions
+-          Do you understand the data ethics principles? If not, how might they be clarified? Is anything missing?
+-          What further steps or activities might be required in the data ethics process proposed?
+
+ 
+
+ 
+ 
+SECTION 2 – A proposed implementation approach
+·       Where Data Ethics will be led from?
+To ensure organisation wide implementation of the data ethics framework and to provide advice and support to the organisation on data ethics the topic needs a home within the organisation with appropriate expertise.
+Four options for a team to lead on data ethics have been considered to date:
+-          Strategic Data Group – the central ABC team delivering the Data Strategy and establishing a BAU Data Governance function.
+-          Analytics and Insights – our central team focusing on research;
+-          Corporate Information Governance – leading on data protection and broader information governance including records management.
+-          A corporate team – a central strategy team, in the same way that EIA’s are managed.
+It is proposed that the Corporate Information Governance Team would appropriately lead this work. They are the team most likely in their work to identify data projects with ethical questions and are therefore able to appropriately signpost teams into the ethics framework. They are not likely to be owning these projects themselves (which would potentially apply to either the Strategic Data Group or Analytics and Insights teams) thus avoiding potential conflicts of interest.  Learning from SABP, who have operated an integrated IG and ethics function for a year, suggests this can be a successful model.
+It would be important to ensure that there was separation within the Information Governance Team between those roles focusing on data protection and a role that would support data ethics so that respective areas of focus and concern could be observed.
+It is therefore proposed that a new role is created within the team for an individual with a background in ethics or a willingness to train (ODI data ethics “qualification” /or equivalent). There may also be a need for wider training for more senior team members to provide resilience.
+ 
+·       How will the data ethics framework be implemented?
+It is important that our approach to data ethics in ABC reflects both good practice but also builds from and on our own experience of dealing with ethical issues. Developing case studies will be particularly important to set out how we have approached these issues and also explain what we are doing and bring it to life.
+Proof of Concept phase - It is proposed that our initial approach (c 12 months 2023/24) is to socialise this framework with the organisation and test how it can be applied, working with existing and developing data projects to apply the framework establish collaboratively what works best. Delivering this initial approach and learning will be staff from the Data Strategy team alongside Corporate IG colleagues, continuing to liaise through a working group of interested individuals.
+As part of this work training will be developed to explain data ethics and the initial framework to be available to staff. Communications activities will raise awareness of the topic and the framework.  
+Version one phase – In 2024 the intention is to take the learning from the proof of concept phase, revise the framework and move into a BAU approach, with the data ethics post in place in Information Governance. Ongoing training and communications will be in place to support version one of the framework.
+In 2024 there is also an intention to consider how and where to undertake broader public engagement. It is at this stage that we anticipate having case studies and examples that will support meaningful engagement.
+Future versions – As data ethics is an emerging area it is expected that this framework will develop over time.
+ 
+ 
+Consultation questions
+-          Do you agree that once a framework is developed and tested data ethics should be led from within corporate IG? If not, where would you propose it is led from?
+-          What do you think would be important when implementing a data ethics framework?
+
+ 
+ 
+ 
+Questions and Answers
+ 
+Why haven’t we just adopted an existing approach e.g. ODI data ethics canvas or gov.uk data ethics framework?
+We have reviewed a range of existing frameworks however we found that they are in some cases too generic or too complex for where we currently  are in ABC. We also do have strong existing processes in ABC around privacy (GDPR etc), security, and equality and felt it was important that our existing processes were reflected in our approach rather than creating a parallel process.  
+Why aren’t we adopting an external ethics panel within the initial framework?
+A data ethics board can be a powerful governance structure for an organisation, advising and shaping individual projects and policies on their ethics. An ethics board is usually advisory (i.e. it provides non-binding recommendations), but some ethics boards are given institutional power to halt particularly harmful projects.
+ 
+The ABC working group has advised that we aren’t yet mature enough to set up an external panel. Our conversations with SABP have reinforced that a working group approach is a good place to start.
+ 
+ 
+Why aren’t we doing further public engagement in 2023?
+
+Discussions with the ABC Head of Research have proposed that we need to ensure that further public engagement involves clear case studies and questions to engage on. We therefore plan to do this in 2024 when we have more examples to share and engage on. We are also engaging with NHS colleagues within the ICS (Integrated Care System) about the potential for joint engagement linked to their integrated data platform. 
+

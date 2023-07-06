@@ -1,0 +1,76 @@
+Maturity Levels and Investment Required
+Phase 1 - Year 1 (0-12 months) : Planning Phase. This will lay the foundation for future AI initiatives.
+·       Establish the AI working group and community of practice (CoP),
+·       conduct AI awareness workshops
+·       Identify sample use cases with AI CoP,
+·       Develop the AI governance framework with data team, guidance and policy to use Generative AI
+·       Prototype some use cases in registration, highways and land& property services
+·   Collaborate with University (UoS) in prototype projects
+Investment Required
+·       Investment in AI training for the squad
+·       AI awareness hackathons
+·   	Build/ purchase a safe platform for prototyping use cases. 
+·   	Resources for implementing the AI governance framework. (internal resources)
+
+Phase 2 - Year 2 (12-24 months) : Experimenting the AI use cases, this phase will start to deliver tangible benefits in terms of improved service delivery and cost savings.
+ 
+·       Pilot selected use cases in some key initiatives (some use cases are listed below)
+·       Integrate to chatbot platform and RPA
+·       Upskill the data analytics and automation teams
+·   	Increase collaboration with more universities local academia and universities
+
+Investment Required
+  AI tools (Python, Druid , UIPath, ChatGPT and/or CoPilot licences, or specific libraries or OTS products e.g. Provalis)
+·       Infrastructure (Azure credits computing resources VMs and GPUs) for piloting use cases,
+(MS Azure resources)
+·       Datawarehouse , data lakes 
+·       Data engineer (1 FTE) and data scientist (1 FTE) to develop models 
+·       Training/ upskilling for data analytics and automation teams
+
+Phase 3 - Year 3 (24-36 months): Scaling up, this phase will deliver further improvements in service delivery and cost savings.
+·       More use cases to other services, develop new AI solutions based on lessons learned from pilot projects
+·       Strengthen collaboration with external partners incl. D&Bs and Police and NHS,
+·       Integrate to residents channels including voice,  chatbot etc.
+·   	Refine the AI governance framework based on implementation experiences.
+
+Continued investment on
+·       AI tools (Python, ChatGPT and/or CoPilot licences, or specific libraries or OTS products e.g. Provalis)
+·       Infrastructure (Azure credits computing resources VMs and GPUs) for piloting use cases,
+(MS Azure resources)
+ 
+·       Data engineer (1 FTE) and data scientist (2 FTE) to develop new models and refine existing models
+·       ML engineer (1 FTE) to support / maintain models
+ 
+Phase 4 - Year 4+ (36+ months) :  Advanced , this phase will deliver significant long-term benefits in terms of improved service delivery, cost savings, and innovation for the council.
+ 
+·   	Fully integrate AI into the council's operations and decision-making processes, continuously innovate and adopt cutting-edge AI technologies, and establish SCC as a leading example of AI-driven local government.
+
+Continued investment on
+·       AI tools (Python, ChatGPT and/or CoPilot licences, or specific libraries or OTS products e.g. Provalis)
+·       Infrastructure (Azure credits computing resources VMs and GPUs) for piloting use cases,
+(MS Azure resources)
+·       Data engineer (2 FTE) and data scientist (3 FTE) to develop new models and refine existing models
+·       ML engineer (2 FTE) to support / maintain models and for continuous deployment / integration of models (operations)
+·   	put some budget aside for purchase of new tech which I can’t envisage
+
+
+
+Use Cases and Benefits
+ 
+ 
+SCC Resources
+Automating routine tasks such as data entry, email generation and appointment management. This can free up staff time for more complex tasks. As next phase, AI can be used to generate documents, such as reports, slide decks, emails based on data.  AI can also be used manage casework helping to prioritise tasks, follow up and track progress. MS Copilot is now being investigated for this use case alongside RPA
+ 
+Social Care ( ASC and CFLL) :
+The chatbots that we have implemented are providing 24/7 support, handling routine enquiry, freeing up human resources, and reducing costs.
+Online Financial Assessment (OFA) chatbot helps manage the demand by providing 24/7 support for FAQs, reducing the need for escalating the enquiries to second line help, live agent or service.
+Predictive analytics can identify at-risk individuals, improving intervention efficiency. For example, AI can analyse data from various sources (LAS, LCS, schools) to identify individuals who are at high risk of social issues, enabling early intervention and potentially preventing crises. AI can analyse data from various sources (e.g., school records, LCS LAS, police records) to identify children or adult who are at high risk of abuse or neglect. This can enable early intervention to protect these children or adults.
+·       Predicting Demand for Social Services: AI can analyse demographic data, economic indicators, and social trends to predict future demand for various social services. This can help the SCC plan for the necessary resources and services, and potentially prevent issues such as homelessness or unemployment.
+·       Predicting and Preventing Mental Health Issues: AI can analyse data from various sources (e.g., LAS, health records, social media posts, online searches) to identify individuals who are at high risk of mental health issues such as depression or anxiety. These individuals can then be targeted with early interventions (e.g., cognitive behavioural therapy, mindfulness training) to prevent or manage these issues.
+Personalized Care Packages: AI can utilize predictive models to create personalized care packages in adult and children's social care, enhancing service quality while optimizing resource allocation. This can help to provide more targeted and effective care, reducing unnecessary costs and improving outcomes for individuals.
+Road and Transport Maintenance: Machine Learning predictive analytics can pre-empt maintenance needs, saving on maintenance costs. For example, AI can analyse data from various sources to predict infrastructure issues such as potholes on roads. By predicting these issues before they become severe, the council can perform preventative maintenance, leading to cost savings in the long run. The benefits can even be enhanced with integration to chatbot channels.
+·       Predicting Infrastructure Issues: AI can analyse data from various sources (e.g., weather data, traffic data, maintenance records) to predict infrastructure issues such as potholes on roads or failures in water or electricity networks. By predicting these issues before they become severe, the council can perform preventative maintenance, leading to cost savings in the long run.
+Emergency Planning & Community Safety: Monitor emails and transcripts of voice, freeing up human resources. Generative AI (Copilot,ChatGPT) can synthesize reports quickly, reducing administrative costs. For example, AI can analyse emails and voice channels to detect potential safety issues, enabling early intervention and potentially preventing accidents or crimes.
+Health, Welfare & Wellbeing Support: For tracking health trends and identify needs for welfare services, improving resource allocation. For example, AI can analyse health data to identify individuals who are at high risk of health issues, enabling early intervention and potentially preventing health crises.
+ 
+ 
